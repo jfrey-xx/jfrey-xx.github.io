@@ -1,12 +1,12 @@
 ---
 layout: blog
 category: blog
-published: false
-title: Presque post
+published: true
+title: Post
 tags: 
   - apples
 ---
 
 ## Un test de billet
 
-Que je pose en draft pour le moment.
+Que je post pour de vrai.
