@@ -1,4 +1,4 @@
-baseurl: 'http://jfrey-xx.github.io'
+baseurl: http://jfrey-xx.github.io
 permalink: pretty
 markdown: rdiscount
 prose:
