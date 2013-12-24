@@ -1,4 +1,4 @@
-baseurl: /toto
+baseurl: '/tata'
 permalink: pretty
 markdown: rdiscount
 prose:
