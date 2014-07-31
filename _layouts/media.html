@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id="main" role="main">			
+<div id="main" role="main">	
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
 		{% if page.image.feature %}
 		<div class="page-feature">
@@ -22,7 +22,6 @@ layout: default
 				{{ content }}
 				<hr />
 				<footer class="page-footer">
-					{% if page.categories %}{% include page-author.html %}{% endif %}
 					{% if page.share != false %}{% include share-this.html %}{% endif %}
 					{% include page-meta.html %}
 				</footer><!-- /.footer -->
@@ -32,5 +31,5 @@ layout: default
 			</div><!-- /.content -->
 		</div><!-- /.inner-wrap -->
 		{% if page.ads != false %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
-	</article><!-- ./wrap -->
+	</article><!-- /.wrap -->
 </div><!-- /#main -->
