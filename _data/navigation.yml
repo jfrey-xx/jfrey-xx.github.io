@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Projects
+  url: /projects/
+  excerpt: "Stuff I've been working on."
+  image: teaser.png
+
+- title: Publications
+  url: /publications/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: teaser.png
+
+- title: About
+  url: /about/
+  excerpt: "About things."
+  image: teaser.png

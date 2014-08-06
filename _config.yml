@@ -57,13 +57,27 @@ defaults:
       path: ""
     values:
       lang: en
-      category: news
+      # we got page by default
+      layout: default
   -
   # all stuff lying inside root path "fr"... will be in French obviously.
     scope:
       path: "fr"
     values:
       lang: fr
+  # specially for post now
+  -
+    scope:
+      path: ""
+      type: post
+    values:
+      category: news
+      layout: article
+  -
+    scope:
+      path: "fr"
+      type: post
+    values:
       # this category will change URL, applying *after* the category set path physical path -- thanks to the filter on the *final* URL -- and *still* change le final URL
       category: breves
 
