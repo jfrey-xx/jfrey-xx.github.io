@@ -1,12 +1,15 @@
 # Site wide configuration
 
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: Jérémy Frey Homepage
+description: Personnal page of Jérémy Frey
+# 120x120 px default image used for Twitter summary card -- and in atom feed
+logo: logo.png
+# 400x250 px default teaser image used in image archive grid
+teaser: teaser.png
 locale:
 #url: http://192.168.0.8/jekyll
-url: http://jfrey-xx.github.io
+#url: http://jfrey-xx.github.io
+url: http://localhost:4000
 
 # Jekyll configuration
 
@@ -19,18 +22,47 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
 
-
 # Site owner
 owner:
-  name:
-  email:
+  name: Jérémy Frey
+  email: jeremy.frey-at-inria.fr
   twitter:
   google:
     ad-client: 
     ad-slot: 
   bio: 
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  # 160x160 px image for author byline
+  avatar: bio-photo.png
 disqus-shortname:
+
+# collections
+collections:
+  # site root: sub-folder "fr" does the trick for the URL
+  pages:
+    output: true
+    permalink: /:path/
+# I want lang flag as path root, I have to mirror config for two different collections
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  projects_fr:
+    output: true
+    permalink: /fr/projets/:path/
+
+# default options
+defaults:
+  -
+  # English by default...
+    scope:
+      path: ""
+    values:
+      lang: en
+  -
+  # all stuff lying inside root path "fr"... will be in French obviously.
+    scope:
+      path: "fr"
+    values:
+      lang: fr
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
