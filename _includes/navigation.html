@@ -1,22 +1,16 @@
 <ul class="menu-item">
   <li class="home"><a href="/">{{ site.title }}</a></li>
   {% if page.lang == 'fr' %}
-    {% for link in site.data.navigation_fr %}
-      {% if link.url contains 'http' %}
-          {% assign domain = '' %}
-          {% else %}
-          {% assign domain = site.url %}
-      {% endif %}
-      <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-    {% endfor %}
+    {% assign nav_data = site.data.navigation_fr %}
   {% else %}
-    {% for link in site.data.navigation %}
-      {% if link.url contains 'http' %}
-          {% assign domain = '' %}
-          {% else %}
-          {% assign domain = site.url %}
-      {% endif %}
-      <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-    {% endfor %}
+    {% assign nav_data = site.data.navigation %}
   {% endif %}
+  {% for link in nav_data %}
+    {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+        {% else %}
+        {% assign domain = site.url %}
+    {% endif %}
+    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+  {% endfor %}
 </ul>

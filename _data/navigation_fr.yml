@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Projets
+  url: /fr/projets/
+  excerpt: "Plein de travaux."
+  image: teaser.png
+
+- title: Publications
+  url: /fr/publications/
+  excerpt: "Publis en masse"
+  image: teaser.png
+
+- title: À propos
+  url: /fr/a-propos/
+  excerpt: "Ego"
+  image: teaser.png
