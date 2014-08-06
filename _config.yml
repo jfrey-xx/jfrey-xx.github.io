@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Jérémy Frey Homepage
-description: Personnal page of Jérémy Frey
+description: Personal page of Jérémy Frey
 # 120x120 px default image used for Twitter summary card -- and in atom feed
 logo: logo.png
 # 400x250 px default teaser image used in image archive grid
@@ -57,12 +57,15 @@ defaults:
       path: ""
     values:
       lang: en
+      category: news
   -
   # all stuff lying inside root path "fr"... will be in French obviously.
     scope:
       path: "fr"
     values:
       lang: fr
+      # this category will change URL, applying *after* the category set path physical path -- thanks to the filter on the *final* URL -- and *still* change le final URL
+      category: breves
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
