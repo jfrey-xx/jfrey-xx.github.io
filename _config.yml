@@ -80,6 +80,13 @@ defaults:
     values:
       # this category will change URL, applying *after* the category set path physical path -- thanks to the filter on the *final* URL -- and *still* change le final URL
       category: breves
+  # weird fix because for posts the "fr" scope don't override with explicit path (??)
+  -
+    scope:
+      path: "_posts/fr"
+    values:
+      lang: fr
+
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
