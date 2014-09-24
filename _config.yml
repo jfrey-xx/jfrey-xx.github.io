@@ -9,8 +9,8 @@ teaser: teaser.png
 locale:
 #url: http://192.168.0.8/jekyll
 #url: http://jfrey-xx.github.io
-url: http://localhost:4000
-#url: http://phd.jfrey.info
+#url: http://localhost:4000
+url: http://phd.jfrey.info
 
 # Jekyll configuration
 
