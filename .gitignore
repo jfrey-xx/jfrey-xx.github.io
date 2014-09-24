@@ -3,3 +3,7 @@ _site/
 
 .directory
 
+# used in local instalation
+*.sh
+_config-local.yml
+
