@@ -1,5 +1,5 @@
- 
-
-Lang: **{{page.lang}}**
+---
+title: "Teegi: interface tangible pour l'EEG
+---
 
 Teegi superétoile.

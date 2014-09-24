@@ -1,0 +1,11 @@
+
+url: http://localhost:4000
+
+# default options
+defaults:
+  -
+  # English by default...
+    scope:
+      path: ""
+    values:
+      toto: to

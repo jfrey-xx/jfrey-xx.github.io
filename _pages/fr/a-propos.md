@@ -1,4 +1,5 @@
-
-Lang: **{{page.lang}}**
+---
+title: "À propos"
+---
 
 À propos de moi.
