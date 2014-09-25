@@ -1,10 +1,11 @@
 ---
 layout: index
-permalink: /
-excerpt: "I'm a PhD student in computer science and so on"
+permalink: /fr/
+excerpt: "Je suis doctorant en informatique, etc."
+lang: fr
 ---
 
-### Last news
+### Dernières brèves
 
 <div class="tiles">
 
@@ -19,7 +20,7 @@ excerpt: "I'm a PhD student in computer science and so on"
 <!-- get to next line no matter what -->
 <!--  <br style="clear: both" /> -->
 
-### Last projects
+### Derniers projets
 
 <div class="tiles">
 

@@ -1,2 +1,2 @@
 
-I'll attend to UIST and present Teegi with Renaud!
+I'll attend to [UIST](http://www.acm.org/uist/uist2014/) and present Teegi with Renaud!
