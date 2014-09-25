@@ -59,7 +59,7 @@ defaults:
     values:
       lang: en
       # we got page by default
-      layout: default
+      layout: article
   -
   # all stuff lying inside root path "fr"... will be in French obviously.
     scope:
