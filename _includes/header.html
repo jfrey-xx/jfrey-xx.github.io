@@ -1,6 +1,13 @@
 <header id="masthead">
   <div class="inner-wrap">
-    <a href="{{ site.url }}" class="site-title">{{ site.title }}</a>
+   <div class="site-title"><a href="{{ site.url }}" >{{ site.title }}</a>
+   <!-- global lang selector -->
+   {% if page.lang == 'fr' %}
+   <a href="{{ site.url }}" class=language-selector>(en)</a>
+   {% else %}
+   <a href="{{ site.url }}/fr" class=language-selector>(fr)</a>
+   {% endif %}
+   </div>
     <nav role="navigation" class="menu top-menu">
         {% include navigation.html %}
     </nav>

@@ -27,8 +27,17 @@
 	@include font-size(20,no);
 	line-height: .5 * $masthead-height; // half the height to center vertically
 	text-transform: uppercase;
+	// now the upper class is a "div"
+	a {
+		text-decoration: none;
+	}
 }
 
+// style for the en/fr link
+.language-selector{
+	@include font-size(15,no);
+	padding-left:  (.5 * $masthead-height) ;
+}
 
 // NAVIGATIONS
 // --------------------------------------------------
