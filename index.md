@@ -10,15 +10,15 @@ excerpt: "I'm a PhD student in computer science and so on"
 <div class="tiles">
 
 {% for post in site.posts %}
-  <!-- only show posts of current language -->
+  <!-- only show posts of current language, only brief versions -->
   {% if post.lang == page.lang %}
-    {% include post-grid.html %}
+    {% include post-list-short.html %}
   {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
 
 <!-- get to next line no matter what -->
-<br style="clear: both" />
+<!--  <br style="clear: both" /> -->
 
 ### Last projects
 
