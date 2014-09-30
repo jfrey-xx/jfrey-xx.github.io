@@ -1,9 +1,9 @@
 <!-- list of all publications, fetch from yaml -->
 <ul class="publications">
   <!-- sort by revert year (most recent first) -->
-  {% assign data = site.data.publications | sort: 'year', 'first' %}
+  {% assign data = site.data.publications | sort: 'year' %}
   
-  {% for pub in data %}
+  {% for pub in data reversed %}
   
     {% capture authors_list %}
     {% for aut in pub.author %}
