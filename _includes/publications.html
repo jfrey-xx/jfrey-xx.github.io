@@ -1,0 +1,30 @@
+<!-- list of all publications, fetch from yaml -->
+<ul class="publications">
+  <!-- sort by revert year (most recent first) -->
+  {% assign data = site.data.publications | sort: 'year', 'first' %}
+   <li>size: {{ data.size }}</li>
+  
+  {% for pub in data %}
+  
+    {% capture authors_list %}
+    {% for aut in pub.author %}
+      <!-- determin correct separator between authors -->
+      {% if forloop.first %}
+        {% assign aut_separator = '' %}
+      {% else %}
+        {% if forloop.last %}
+          {% assign aut_separator = 'and ' %}
+        {% else %}
+          {% assign aut_separator = ', ' %}
+        {% endif %}
+      {% endif %}
+    
+      {{ aut_separator }}{{ aut.family }}, {{ aut.given }}
+      
+    {% endfor %}
+    {% endcapture %}
+    
+  <li>{{ pub.title }} -- {{ authors_list }} </li>
+    
+  {% endfor %}
+</ul>
