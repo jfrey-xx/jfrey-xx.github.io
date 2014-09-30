@@ -1,10 +1,18 @@
 <!-- list of all publications, fetch from yaml -->
-<ul class="publications">
-  <!-- sort by revert year (most recent first) -->
+
+{% comment %} if option set during include, will select publications for particular project (order by year) {% endcomment %}
+{% if include.project %}
+  {% assign data = site.data.publications |  where: "project", include.project | sort: 'year' %}
+{% else %}
   {% assign data = site.data.publications | sort: 'year' %}
+{% endif %}
+
+<ul class="publications">
+
   
+  {% comment %} most recent publication first {% endcomment %}
   {% for pub in data reversed %}
-  
+    
     {% capture authors_list %}
     {% for aut in pub.author %}
       {% comment %} determin correct separator between authors {% endcomment %}

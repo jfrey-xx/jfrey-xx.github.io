@@ -58,7 +58,7 @@ defaults:
       path: ""
     values:
       lang: en
-      # we got page by default
+      # we got same layout by default for page and posts
       layout: article
   -
   # all stuff lying inside root path "fr"... will be in French obviously.
@@ -73,7 +73,6 @@ defaults:
       type: posts
     values:
       category: news
-      layout: article
   -
     scope:
       path: "fr"
@@ -87,6 +86,17 @@ defaults:
       path: "_posts/fr"
     values:
       lang: fr
+  # apply a dedicated layout for projects
+  -
+    scope:
+      path: "projects"
+    values:
+      layout: project
+  -
+    scope:
+      path: "fr/projets"
+    values:
+      layout: project
 
 
 

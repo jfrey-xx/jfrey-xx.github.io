@@ -1,0 +1,18 @@
+---
+layout: article
+---
+
+{{ content }}
+
+{% comment %} Testing if there is publications associated to this project. FIXME: if so will read twice the database... {% endcomment %}
+{% assign test_data = site.data.publications | where: "project", page.project %}
+
+{% if  test_data.size > 0 %}
+  {% if page.lang == "fr" %}
+    <h3>Publications associées</h3>
+  {% else %}
+    <h3>Associated publications</h3>
+  {% endif %}
+
+  {% include publications.html project=page.project %}
+{% endif %}
