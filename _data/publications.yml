@@ -1,0 +1,91 @@
+# publication list. entries converted from bibfile with biblio2yaml (pandoc-citeproc).
+# changes from convertion: a "year" field on top of "issued/year", tuned conf titles, add abbreviation
+# most recent items should be put last (will be sorted by year and then by order in this file)
+# add "me" tag to author to emphasize name!
+- URL: http://hal.inria.fr/hal-00881756
+  container-title: International Conference on Physiological Computing
+    Systems
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: "Mühl"
+    given:
+    - Christian
+  - family: Lotte
+    given:
+    - Fabien
+  - family: Hachet
+    given:
+    - Martin
+  id: Frey2014a
+  issued:
+    year: 2014
+  year: 2014
+  title: Review of the use of electroencephalography as an evaluation method for human-computer
+    interaction
+  type: paper-conference
+  abbreviation: "PhyCS '14"
+  pdf-link: "http://hal.inria.fr/docs/00/88/17/56/PDF/article-publish.pdf"
+  project: "stereo"
+- DOI: 10.1145/2559206.2581191
+  publisher-place: New York, New York, USA
+  URL: http://dl.acm.org/citation.cfm?doid=2559206.2581191
+  page: 2041-2046
+  ISBN: 9781450324748
+  container-title: "Proceedings of the extended abstracts of the 32nd annual ACM
+    conference on Human factors in computing systems"
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Pommereau
+    given:
+    - Leonard
+  - family: Lotte
+    given:
+    - Fabien
+  - family: Hachet
+    given:
+    - Martin
+  id: Frey2014
+  issued:
+    year: 2014
+  year: 2014
+  title: Assessing the zone of comfort in stereoscopic displays using EEG
+  type: article-journal
+  publisher: ACM Press
+  abbreviation: "CHI '14"
+  pdf-link: "http://hal.inria.fr/docs/00/98/27/82/PDF/article-publish.pdf"
+  project: "stereo"
+- URL: http://hal.inria.fr/hal-01025621/
+  ISBN: 9781450330695
+  container-title: ACM User Interface Software and Technology Symposium
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Gervais
+    given:
+    - Renaud
+  - family: Fleck
+    given:
+    - ! "Stéphanie"
+  - family: Lotte
+    given:
+    - Fabien
+  - family: Hachet
+    given:
+    - Martin
+  id: Frey2014b
+  issued:
+    year: 2014
+  year: 2014
+  title: 'Teegi: Tangible EEG Interface'
+  type: paper-conference
+  abbreviation: "UIST '14"
+  pdf-link: "http://hal.inria.fr/docs/01/02/56/21/PDF/uistf1785-freyA.pdf"
+  project: "teegi"

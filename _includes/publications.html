@@ -1,0 +1,36 @@
+<!-- list of all publications, fetch from yaml -->
+
+{% comment %} if option set during include, will select publications for particular project (order by year) {% endcomment %}
+{% if include.project %}
+  {% assign data = site.data.publications |  where: "project", include.project | sort: 'year' %}
+{% else %}
+  {% assign data = site.data.publications | sort: 'year' %}
+{% endif %}
+
+<ul class="publications">
+
+  
+  {% comment %} most recent publication first {% endcomment %}
+  {% for pub in data reversed %}
+    
+    {% capture authors_list %}
+    {% for aut in pub.author %}
+      {% comment %} determin correct separator between authors {% endcomment %}
+      {% assign aut_separator = '' %}
+      {% if forloop.rindex  > 1 %}
+        {% if forloop.rindex  == 2 %}
+          {% assign aut_separator = ' and ' %}
+        {% else %}
+          {% assign aut_separator = ', ' %}
+        {% endif %}
+      {% endif %}
+     
+      {% if aut.me == true %}<strong>{% endif %}{{ aut.family }}, {{ aut.given }}{% if aut.me == true %}</strong>{% endif %}{{ aut_separator }}
+      
+    {% endfor %}
+    {% endcapture %}
+    
+  <li>{{ authors_list }} ({{ pub.year }}). <a href="{{ pub.URL }}">{{ pub.title }}</a>. <em>{{ pub.container-title}} ({{ pub.abbreviation }})</em>. <a href="{{ pub.pdf-link }}"><img src="{{ site.url }}/images/pdf.png" alt="pdf_link_image"></a></li>
+    
+  {% endfor %}
+</ul>
