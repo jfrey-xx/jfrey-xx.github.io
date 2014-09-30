@@ -2,7 +2,7 @@
 # changes from convertion: a "year" field on top of "issued/year", tuned conf titles, add abbreviation
 # most recent items should be put last (will be sorted by year and then by order in this file)
 # add "me" tag to author to emphasize name!
-- URL: http://arxiv.org/abs/1311.2222
+- URL: http://hal.inria.fr/hal-00881756
   container-title: International Conference on Physiological Computing
     Systems
   author:
@@ -27,6 +27,7 @@
     interaction
   type: paper-conference
   abbreviation: "PhyCS '14"
+  pdf-link: "http://hal.inria.fr/docs/00/88/17/56/PDF/article-publish.pdf"
 - DOI: 10.1145/2559206.2581191
   publisher-place: New York, New York, USA
   URL: http://dl.acm.org/citation.cfm?doid=2559206.2581191
@@ -56,6 +57,7 @@
   type: article-journal
   publisher: ACM Press
   abbreviation: "CHI '14"
+  pdf-link: "http://hal.inria.fr/docs/00/98/27/82/PDF/article-publish.pdf"
 - URL: http://hal.inria.fr/hal-01025621/
   ISBN: 9781450330695
   container-title: ACM User Interface Software and Technology Symposium
@@ -83,3 +85,4 @@
   title: 'Teegi: Tangible EEG Interface'
   type: paper-conference
   abbreviation: "UIST '14"
+  pdf-link: "http://hal.inria.fr/docs/01/02/56/21/PDF/uistf1785-freyA.pdf"

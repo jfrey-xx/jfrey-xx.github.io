@@ -23,7 +23,7 @@
     {% endfor %}
     {% endcapture %}
     
-  <li>{{ authors_list }} ({{ pub.year }}). {{ pub.title }}. <em>{{ pub.container-title}} ({{ pub.abbreviation }})</em>.</li>
+  <li>{{ authors_list }} ({{ pub.year }}). <a href="{{ pub.URL }}">{{ pub.title }}</a>. <em>{{ pub.container-title}} ({{ pub.abbreviation }})</em>. <a href="{{ pub.pdf-link }}"><img src="{{ site.url }}/images/pdf.png" alt="pdf_link_image"></a></li>
     
   {% endfor %}
 </ul>
