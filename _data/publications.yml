@@ -1,6 +1,7 @@
 # publication list. entries converted from bibfile with biblio2yaml (pandoc-citeproc).
 # changes from convertion: a "year" field on top of "issued/year", tuned conf titles, add abbreviation
 # most recent items should be put last (will be sorted by year and then by order in this file)
+# add "me" tag to author to emphasize name!
 - URL: http://arxiv.org/abs/1311.2222
   container-title: International Conference on Physiological Computing
     Systems
@@ -8,6 +9,7 @@
   - family: Frey
     given:
     - ! "Jérémy"
+    me: true
   - family: "Mühl"
     given:
     - Christian
@@ -36,6 +38,7 @@
   - family: Frey
     given:
     - ! "Jérémy"
+    me: true
   - family: Pommereau
     given:
     - Leonard
@@ -60,6 +63,7 @@
   - family: Frey
     given:
     - ! "Jérémy"
+    me: true
   - family: Gervais
     given:
     - Renaud

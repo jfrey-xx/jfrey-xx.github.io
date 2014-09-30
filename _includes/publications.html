@@ -18,7 +18,7 @@
         {% endif %}
       {% endif %}
      
-      {{ aut.family }}, {{ aut.given }}{{ aut_separator }}
+      {% if aut.me == true %}<strong>{% endif %}{{ aut.family }}, {{ aut.given }}{% if aut.me == true %}</strong>{% endif %}{{ aut_separator }}
       
     {% endfor %}
     {% endcapture %}
