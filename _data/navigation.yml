@@ -2,8 +2,8 @@
 
 - title: Projects
   url: /projects/
-  excerpt: "Stuff I've been working on."
-  image: teaser.png
+  excerpt: "Research projects."
+  image: teaser_teegi.jpg
 
 - title: Publications
   url: /publications/
@@ -12,5 +12,5 @@
 
 - title: About
   url: /about/
-  excerpt: "About things."
+  excerpt: "Who and what is behind."
   image: teaser.png
