@@ -2,4 +2,4 @@
 title: "Publications"
 ---
 
-Publications à foison.
+{% include publications.html %}

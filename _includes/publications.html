@@ -2,7 +2,6 @@
 <ul class="publications">
   <!-- sort by revert year (most recent first) -->
   {% assign data = site.data.publications | sort: 'year', 'first' %}
-   <li>size: {{ data.size }}</li>
   
   {% for pub in data %}
   
