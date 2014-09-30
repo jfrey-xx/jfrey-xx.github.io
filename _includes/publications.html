@@ -8,23 +8,22 @@
   
     {% capture authors_list %}
     {% for aut in pub.author %}
-      <!-- determin correct separator between authors -->
-      {% if forloop.first %}
-        {% assign aut_separator = '' %}
-      {% else %}
-        {% if forloop.last %}
-          {% assign aut_separator = 'and ' %}
+      {% comment %} determin correct separator between authors {% endcomment %}
+      {% assign aut_separator = '' %}
+      {% if forloop.rindex  > 1 %}
+        {% if forloop.rindex  == 2 %}
+          {% assign aut_separator = ' and ' %}
         {% else %}
           {% assign aut_separator = ', ' %}
         {% endif %}
       {% endif %}
-    
-      {{ aut_separator }}{{ aut.family }}, {{ aut.given }}
+     
+      {{ aut.family }}, {{ aut.given }}{{ aut_separator }}
       
     {% endfor %}
     {% endcapture %}
     
-  <li>{{ pub.title }} -- {{ authors_list }} </li>
+  <li>{{ authors_list }} ({{ pub.year }}). {{ pub.title }}. <em>{{ pub.container-title}} ({{ pub.abbreviation }})</em>.</li>
     
   {% endfor %}
 </ul>

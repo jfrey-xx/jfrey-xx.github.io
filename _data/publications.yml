@@ -1,8 +1,8 @@
 # publication list. entries converted from bibfile with biblio2yaml (pandoc-citeproc).
-# changes from convertion: a "year" field on top of "issued/year"
+# changes from convertion: a "year" field on top of "issued/year", tuned conf titles, add abbreviation
 # most recent items should be put last (will be sorted by year and then by order in this file)
 - URL: http://arxiv.org/abs/1311.2222
-  container-title: PhyCS 2014 - International Conference on Physiological Computing
+  container-title: International Conference on Physiological Computing
     Systems
   author:
   - family: Frey
@@ -24,13 +24,14 @@
   title: Review of the use of electroencephalography as an evaluation method for human-computer
     interaction
   type: paper-conference
+  abbreviation: "PhyCS '14"
 - DOI: 10.1145/2559206.2581191
   publisher-place: New York, New York, USA
   URL: http://dl.acm.org/citation.cfm?doid=2559206.2581191
   page: 2041-2046
   ISBN: 9781450324748
   container-title: "Proceedings of the extended abstracts of the 32nd annual ACM
-    conference on Human factors in computing systems - CHI EA ’14"
+    conference on Human factors in computing systems"
   author:
   - family: Frey
     given:
@@ -51,9 +52,10 @@
   title: Assessing the zone of comfort in stereoscopic displays using EEG
   type: article-journal
   publisher: ACM Press
+  abbreviation: "CHI '14"
 - URL: http://hal.inria.fr/hal-01025621/
   ISBN: 9781450330695
-  container-title: UIST-ACM User Interface Software and Technology Symposium
+  container-title: ACM User Interface Software and Technology Symposium
   author:
   - family: Frey
     given:
@@ -76,3 +78,4 @@
   year: 2014
   title: 'Teegi: Tangible EEG Interface'
   type: paper-conference
+  abbreviation: "UIST '14"
