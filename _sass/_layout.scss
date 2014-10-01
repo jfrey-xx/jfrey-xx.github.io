@@ -174,7 +174,9 @@
 				//@include span-columns(7 of 9);
 			}
 			@include media($large) {
-				@include span-columns(7 of 9);
+                                // was previously with toc
+				// @include span-columns(7 of 9);
+                                @include fill-parent;
 			}
 			// larger font for intro paragraph
 			> p {
