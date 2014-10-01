@@ -1,0 +1,5 @@
+ 
+prose:
+  ignore:
+    - /_includes
+    - /fonts
