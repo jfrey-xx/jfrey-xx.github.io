@@ -2,15 +2,15 @@
 
 - title: Projets
   url: /fr/projets/
-  excerpt: "Plein de travaux."
-  image: teaser.png
+  excerpt: "Projets de recherche."
+  image: teaser_teegi.jpg
 
 - title: Publications
   url: /fr/publications/
   excerpt: "Les écrits qui ont réussi à franchir la barrière des pairs."
-  image: teaser.png
+  image: teaser_publications.jpg
 
 - title: À propos
   url: /fr/a-propos/
-  excerpt: "Ego"
-  image: teaser.png
+  excerpt: "Les dessous de l'histoire."
+  image: teaser_about.jpg

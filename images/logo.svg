@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-523.07841"
-     inkscape:cy="596.72023"
+     inkscape:zoom="0.175"
+     inkscape:cx="111.33624"
+     inkscape:cy="-387.08652"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1126"
-     inkscape:window-x="-3"
+     inkscape:window-height="1145"
+     inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
@@ -52,8 +52,13 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;color:#000000;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -1449.3747,-536.67826 0,2125.71866 3642.8439,0 0,-2125.71866 -3642.8439,0 z m 1726.43753,589.468801 113.1875,38.1875 115.68751,-29.6563 82.4688,86.406299 116.25,27.5 32.8437,114.8437 90.1563,78.375 -24.2813,116.9687 43.4063,111.2813 -75.8438,92.2813 -13.3125,118.6875 -110.0312,46.4687 -66.9375,98.9375 -119.0313,-10 -105.25001,56.5 -100.75,-64.1562 -119.4375,1.0937 -59.374999,-103.625 -106.2812,-54.5312 -4.4375,-119.375 -68.750001,-97.6563 51.531201,-107.75 -15.4687,-118.4375 95.7187,-71.4375 41.3125,-112.0937 117.937499,-18.7813 88.6875,-80.031199 z"
+       id="rect3099" />
     <g
-       transform="translate(25.095614,127.54619)"
+       transform="translate(1065.0956,-1443.8824)"
        id="g3841-7">
       <path
          style="fill:#000000;fill-opacity:1"
@@ -78,7 +83,7 @@
     </g>
     <g
        id="g3956"
-       transform="translate(8.5714286,-20)">
+       transform="translate(-3.7890625e-6,3.0859383e-7)">
       <path
          inkscape:connector-curvature="0"
          id="path2985"
