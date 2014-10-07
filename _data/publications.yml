@@ -9,7 +9,7 @@
   - family: Frey
     given:
     - ! "Jérémy"
-    me: true
+    mee: true
   - family: "Mühl"
     given:
     - Christian
@@ -40,7 +40,7 @@
   - family: Frey
     given:
     - ! "Jérémy"
-    me: true
+    mee: true
   - family: Pommereau
     given:
     - Leonard
@@ -67,7 +67,7 @@
   - family: Frey
     given:
     - ! "Jérémy"
-    me: true
+    mee: true
   - family: Gervais
     given:
     - Renaud
