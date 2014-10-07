@@ -1,7 +1,7 @@
 ---
 layout: index
 permalink: /fr/
-excerpt: "Je suis doctorant en informatique, etc."
+excerpt: "Salutations ! Je suis doctorant en informatique. Ma thèse combine évaluation des interactions homme-machine et enregistrements électro-encéphalographiques. Plus souvent que ne le souhaiteraient mes directeurs, j'aime aussi jouer avec les capteurs physiologiques et avec le machine learning."
 lang: fr
 ---
 
