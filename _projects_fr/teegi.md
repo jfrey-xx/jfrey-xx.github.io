@@ -14,4 +14,4 @@ L'EEG (électro-encephalographie) est utilisée afin de mesurer l'activité éle
 
 Notre travail propose une approche multi-disciplinaire qui combine réalité augmentée spatiale, traitement du signal et apprentissage par l'investigation. Le résultat est une installation divertissante qui fait toucher du doigt les neurosciences et permet d'éviter que de fausses croyances prennent racine sur de mauvaises interprétations -- aucun appareil ne pourra jamais lire les pensées !
 
-Plus de détails sur le site de l'[équipe](https://team.inria.fr/potioc/fr/scientific-subjects/teegi-tangible-eeg-interface/), ainsi que sur celui de [Renaud](renaudgervais.github.io/teegi-tangible-eeg-interface/).
+Plus de détails sur le site de l'[équipe](https://team.inria.fr/potioc/fr/scientific-subjects/teegi-tangible-eeg-interface/), ainsi que sur celui de [Renaud](http://renaudgervais.github.io/teegi-tangible-eeg-interface/).

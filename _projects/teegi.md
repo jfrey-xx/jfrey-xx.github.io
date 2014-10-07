@@ -14,4 +14,4 @@ EEG (electroencephalography) is used to record electrical signals onto the scalp
 
 Our work consists in a multi-disciplinary approach that combines spacial augmented reality, signal processing and inquiry based learning. The result is an entertaining device that can get users hands on neuroscience and prevent false knowledge to grow from misunderstanding -- no device will ever read thoughts!
 
-More details on the [team](https://team.inria.fr/potioc/scientific-subjects/teegi-tangible-eeg-interface/) website, as well as on [Renaud](renaudgervais.github.io/teegi-tangible-eeg-interface/) page.
+More details on the [team](https://team.inria.fr/potioc/scientific-subjects/teegi-tangible-eeg-interface/) website, as well as on [Renaud](http://renaudgervais.github.io/teegi-tangible-eeg-interface/) page.
