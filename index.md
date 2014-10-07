@@ -1,7 +1,7 @@
 ---
 layout: index
 permalink: /
-excerpt: "I'm a PhD student in computer science and so on"
+excerpt: "Greetings! I'm a PhD student in computer science. My thesis brings together the evaluation of human-computer interaction and electroencephalography recordings. More often than my advisers would like, I also toy with physiological sensors and machine learning."
 ---
 
 ### Last news
