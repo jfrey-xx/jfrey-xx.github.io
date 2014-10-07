@@ -10,7 +10,7 @@ My thesis focuses on the evaluation of human-computer interaction through electr
 
 ## Under the hood
 
-[Jekyll](http://jekyllrb.com) + (Skinny Bones)[http://mademistakes.com] theme + (GitHub Pages)[https://pages.github.com/] hosting = geekish website.
+[Jekyll](http://jekyllrb.com) + [Skinny Bones](http://mademistakes.com) theme + [GitHub Pages](https://pages.github.com/) hosting = geekish website.
 
 ## Contact
 
