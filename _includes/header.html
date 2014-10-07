@@ -1,6 +1,6 @@
 <header id="masthead">
   <div class="inner-wrap">
-   <div class="site-title"><a href="{{ site.url }}" >{{ site.title }}</a>
+   <div class="site-title"><a href="{{ site.url }}{% if page.lang == 'fr' %}/fr{% endif %}" >{{ site.title }}</a>
    <!-- global lang selector -->
    {% if page.lang == 'fr' %}
    <a href="{{ site.url }}" class=language-selector>(en)</a>
