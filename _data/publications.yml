@@ -89,3 +89,20 @@
   abbreviation: "UIST '14"
   pdf-link: "http://hal.inria.fr/docs/01/02/56/21/PDF/uistf1785-freyA.pdf"
   project: "teegi"
+- URL: https://hal.inria.fr/hal-01090544/
+  container-title: International Conference on Physiological Computing
+    Systems
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    mee: true
+  id: Frey2015
+  issued:
+    year: 2015
+  year: 2015
+  title: Heart Rate Monitoring as an Easy Way to Increase Engagement in Human-Agent Interaction
+  type: paper-conference
+  abbreviation: "PhyCS '15"
+  pdf-link: "https://hal.inria.fr/hal-01090544/document"
+  project: "physio-agents"

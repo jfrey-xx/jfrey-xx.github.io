@@ -1,5 +1,5 @@
 ---
-title: "Mirrored physiological feedback to increase the social presence of embodied agents"
+title: "Mirroring physiological feedback to increase the social presence of embodied agents"
 project: "physio-agents"
 image-teaser: "teaser_agent.gif"
 ---
