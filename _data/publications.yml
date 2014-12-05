@@ -29,9 +29,10 @@
   abbreviation: "PhyCS '14"
   pdf-link: "http://hal.inria.fr/docs/00/88/17/56/PDF/article-publish.pdf"
   project: "stereo"
+  DOI: 10.5220/0004708102140223
 - DOI: 10.1145/2559206.2581191
   publisher-place: New York, New York, USA
-  URL: http://dl.acm.org/citation.cfm?doid=2559206.2581191
+  URL: http://dx.doi.org/10.1145/2559206.2581191
   page: 2041-2046
   ISBN: 9781450324748
   container-title: "Proceedings of the extended abstracts of the 32nd annual ACM
@@ -60,7 +61,8 @@
   abbreviation: "CHI '14"
   pdf-link: "http://hal.inria.fr/docs/00/98/27/82/PDF/article-publish.pdf"
   project: "stereo"
-- URL: http://hal.inria.fr/hal-01025621/
+- URL: http://dx.doi.org/10.1145/2642918.2647368
+  DOI: 10.1145/2642918.2647368
   ISBN: 9781450330695
   container-title: ACM User Interface Software and Technology Symposium
   author:
