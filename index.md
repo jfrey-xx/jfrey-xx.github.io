@@ -6,7 +6,7 @@ excerpt: "Greetings! I'm a PhD student in computer science. My thesis brings tog
 
 ### Last news
 
-<div class="tiles">
+<div class="tiles" id="news">
 
 {% for post in site.posts %}
   <!-- only show posts of current language, only brief versions -->

@@ -10,6 +10,8 @@
  *
 */
 
+
+
 // Partials
 @import "variables";
 @import "vendor/bourbon/bourbon";
@@ -39,4 +41,8 @@
     display: inline;
 }
 
+/* In news emphasize links */
 
+#news a { border-bottom:1px dotted; }
+
+#news a:hover { border-bottom:1px solid; }
