@@ -3,9 +3,9 @@
 <li>
 {% if post.date %}<span>
   {% if page.lang == 'fr' %}
-    {% comment %} Conversion taken from http://christopheducamp.com/w/Jekyll-localiser-la-date#localisation_du_mois{% endcomment %}
-    {% assign m = page.date | date: "%-m" %}
-    {{ page.date | date: "%-d" }}
+    {% comment %} Conversion taken from http://christopheducamp.com/w/Jekyll-localiser-la-date#localisation_du_mois {% endcomment %}
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }}
     {% case m %}
       {% when '1' %}janvier
       {% when '2' %}février
@@ -20,7 +20,7 @@
       {% when '11' %}novembre
       {% when '12' %}décembre
     {% endcase %}
-    {{ page.date | date: "%Y" }}
+    {{ post.date | date: "%Y" }}
   {% else %}
     {{ post.date | date: "%B %d, %Y" }}
   {% endif %}
