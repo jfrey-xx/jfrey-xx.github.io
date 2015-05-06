@@ -109,3 +109,31 @@
   pdf-link: "https://hal.inria.fr/hal-01090544/document"
   project: "physio-agents"
   award: "Best Student Paper"
+- URL: http://phd.jfrey.info/
+  container-title: INTERACT
+  author:
+  - family: Wobrock
+    given:
+    - Dennis
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    mee: true
+  - family: Graef
+    given:
+    - Delphine
+  - family: "de la Rivière"
+    given:
+    - Jean-Baptiste
+  - family: Castet
+    given:
+    - Julien
+  - family: Lotte
+    given:
+    - Fabien
+  issued:
+    year: 2015
+  year: 2015
+  title: Continuous Mental Effort Evaluation during 3D Object Manipulation Tasks based on Brain and Physiological Signals
+  type: paper-conference
+  abbreviation: "INTERACT '15"
