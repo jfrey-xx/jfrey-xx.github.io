@@ -137,3 +137,44 @@
   title: Continuous Mental Effort Evaluation during 3D Object Manipulation Tasks based on Brain and Physiological Signals
   type: paper-conference
   abbreviation: "INTERACT '15"
+- URL: http://phd.jfrey.info/
+  container-title: INTERACT
+  author:
+  - family: Gervais
+    given:
+    - Renaud
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Hachet
+    given:
+    - Martin
+  issued:
+    year: 2015
+  year: 2015
+  title: Pointing in Spatial Augmented Reality from 2D Pointing Devices
+  type: paper-conference
+  abbreviation: "INTERACT '15"
+- URL: http://phd.jfrey.info/
+  container-title: INTERACT
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Appriou
+    given:
+    - ! "Aurélien"
+  - family: Lotte
+    given:
+    - Fabien
+  - family: Hachet
+    given:
+    - Martin
+  issued:
+    year: 2015
+  year: 2015
+  title: Estimating Visual Comfort in Stereoscopic Displays Using Electroencephalography: A Proof-of-Concept
+  type: paper-conference
+  abbreviation: "INTERACT '15"
