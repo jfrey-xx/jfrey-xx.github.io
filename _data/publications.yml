@@ -109,7 +109,7 @@
   pdf-link: "https://hal.inria.fr/hal-01090544/document"
   project: "physio-agents"
   award: "Best Student Paper"
-- URL: http://phd.jfrey.info/
+- URL: https://hal.inria.fr/hal-01157896
   container-title: INTERACT
   author:
   - family: Wobrock
@@ -137,7 +137,8 @@
   title: Continuous Mental Effort Evaluation during 3D Object Manipulation Tasks based on Brain and Physiological Signals
   type: paper-conference
   abbreviation: "INTERACT '15"
-- URL: http://phd.jfrey.info/
+  pdf-link: "https://hal.inria.fr/hal-01157896/document"
+- URL: https://hal.inria.fr/hal-01153647
   container-title: INTERACT
   author:
   - family: Gervais
@@ -156,7 +157,7 @@
   title: Pointing in Spatial Augmented Reality from 2D Pointing Devices
   type: paper-conference
   abbreviation: "INTERACT '15"
-- URL: http://phd.jfrey.info/
+- URL: https://hal.inria.fr/hal-01157890
   container-title: INTERACT
   author:
   - family: Frey
@@ -179,3 +180,4 @@
   type: paper-conference
   abbreviation: "INTERACT '15"
   project: "stereo"
+  pdf-link: "https://hal.inria.fr/hal-01157890/document"
