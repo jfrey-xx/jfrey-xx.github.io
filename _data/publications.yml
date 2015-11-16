@@ -182,7 +182,7 @@
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01157890/document"
 - URL: https://hal.inria.fr/hal-01215499
-  container-title: TEIi
+  container-title: TEI
   author:
   - family: Gervais
     given:
