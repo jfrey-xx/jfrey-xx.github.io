@@ -206,6 +206,7 @@
   title: "TOBE: Tangible Out-of-Body Experience"
   type: paper-conference
   abbreviation: "TEI '16"
+  project: "teegi"
   pdf-link: "https://hal.inria.fr/hal-01215499"
 - URL: https://hal.inria.fr/hal-01222045
   container-title: Computational Intelligence and Neuroscience
