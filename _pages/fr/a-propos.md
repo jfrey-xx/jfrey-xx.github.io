@@ -14,4 +14,6 @@ Ma thèse se concentre sur l'évaluation de l'interaction homme-machine à l'aid
 
 ## Contact
 
-Je suis du genre vieux jeu, si vous voulez m'envoyer un message -- et n'hésitez pas à le faire ! -- il faudra adresser un e-mail à jeremy point frey chez inria point fr (anti-spam de folie !).
+Si vous voulez m'envoyer un message -- et n'hésitez pas à le faire ! -- adressez un e-mail à jeremy point frey chez inria point fr (anti-spam de folie !).
+
+Bien que je sois du genre à souffrir d'une limitation à 140 signes, je sévis de temps à autre sur Twitter: [@jfrey_xx](https://twitter.com/jfrey_xx).

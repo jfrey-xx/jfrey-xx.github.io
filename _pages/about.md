@@ -14,4 +14,6 @@ My thesis focuses on the evaluation of human-computer interaction through electr
 
 ## Contact
 
-I'm an old-fashioned guy, if you want to shoot me -- and don't hesitate to! -- you'll have to do it with an e-mail: jeremy dot frey at inria dot fr (take that, spam bots!). 
+If you want to shoot me -- and don't hesitate to! -- write an e-mail jeremy dot frey at inria dot fr (take that, spam bots!). 
+
+Even though I'm the kind of guy that suffers from a 140 characters limit, I sporadically post on Twitter: [@jfrey_xx](https://twitter.com/jfrey_xx).
