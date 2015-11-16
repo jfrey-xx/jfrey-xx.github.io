@@ -181,3 +181,30 @@
   abbreviation: "INTERACT '15"
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01157890/document"
+- URL: https://hal.inria.fr/hal-01215499
+  container-title: TEIi
+  author:
+  - family: Gervais
+    given:
+    - Renaud
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Gay
+    given:
+    - Alexis
+  - family: Lotte
+    given:
+    - Fabien
+  - family: Hachet
+    given:
+    - Martin
+  issued:
+    year: 2016
+  year: 2016
+  title: "TOBE: Tangible Out-of-Body Experience"
+  type: paper-conference
+  abbreviation: "TEI '16"
+  pdf-link: "https://hal.inria.fr/hal-01215499"
+
