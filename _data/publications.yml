@@ -207,4 +207,27 @@
   type: paper-conference
   abbreviation: "TEI '16"
   pdf-link: "https://hal.inria.fr/hal-01215499"
-
+- URL: https://hal.inria.fr/hal-01222045
+  container-title: Computational Intelligence and Neuroscience
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Appriou
+    given:
+    - ! "Aurélien"
+  - family: Lotte
+    given:
+    - Fabien
+  - family: Hachet
+    given:
+    - Martin
+  issued:
+    year: 2015
+  year: 2015
+  title: "Classifying EEG Signals during Stereoscopic Visualization to Estimate Visual Comfort"
+  type: journal
+  abbreviation: Hindawi
+  project: "stereo"
+  pdf-link: "https://hal.inria.fr/hal-01222045/document"
