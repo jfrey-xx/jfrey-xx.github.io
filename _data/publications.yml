@@ -28,7 +28,7 @@
   type: paper-conference
   abbreviation: "PhyCS '14"
   pdf-link: "http://hal.inria.fr/docs/00/88/17/56/PDF/article-publish.pdf"
-  project: "stereo"
+  project: "eval"
   DOI: 10.5220/0004708102140223
 - DOI: 10.1145/2559206.2581191
   publisher-place: New York, New York, USA
@@ -138,6 +138,7 @@
   type: paper-conference
   abbreviation: "INTERACT '15"
   pdf-link: "https://hal.inria.fr/hal-01157896/document"
+  project: "eval"
 - URL: https://hal.inria.fr/hal-01153647
   container-title: INTERACT
   author:
@@ -254,5 +255,5 @@
   title: "Tools for electroencephalography-based evaluation of user experience"
   type: paper-conference
   abbreviation: "CHI '16"
-  project: ["eval", "stereo"]
+  project: "eval"
   pdf-link: "http://phd.jfrey.info/publications/"
