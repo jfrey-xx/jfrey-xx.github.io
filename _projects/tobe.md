@@ -2,6 +2,7 @@
 title: "Tobe: Tangible Out-of-Body Experience"
 project: "tobe"
 image-teaser: "teaser_tobe.jpg"
+order: 5
 ---
 
 We propose a toolkit for creating Tangible Out-of-Body Experiences: exposing the inner states of users using physiological signals such as heart rate or brain activity. Tobe can take the form of a tangible avatar displaying live physiological readings to reflect on ourselves and others. Such a toolkit could be used by researchers and designers to create a multitude of potential tangible applications, including (but not limited to) educational tools about Science Technologies Engineering and Mathematics (STEM) and cognitive science, medical applications or entertainment and social experiences with one or several users or Tobes involved.

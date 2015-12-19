@@ -2,6 +2,7 @@
 title: "Stereo + EEG = visual comfort"
 project: "stereo"
 image-teaser: "teaser_stereo.jpg"
+order: 1
 ---
 
 Stereoscopic displays are going mainstream. You know them, they're often called "3D" displays, they make your movie theatre tickets cost more and frighten parents when their progeny play all day long to 3DS games.

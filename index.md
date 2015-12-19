@@ -24,7 +24,8 @@ excerpt: "Greetings! I'm a PhD student in computer science. My thesis brings tog
 <div class="tiles">
 
 <!-- not really a "post", but it's the variable name used in the html, and it works the same for this kind of page -->
-{% for post in site.projects %}
+{% assign projects = site.projects | sort:"order"  %}
+{% for post in projects reversed %}
   <!-- avoid to show an index page -->
   {% if post.exclude != true %}
     {% include post-grid.html %}

@@ -2,6 +2,7 @@
 title: "EEG as an evaluation tool for HCI"
 project: "eval"
 image-teaser: "teaser_eval.jpg"
+order: 6
 ---
 
 The measure of brain activity by the mean of electroencephalography (EEG) is mature enough to assess mental states. Combined with existing methods, such tool can be used to strengthen the understanding of user experience. We contribute a set of methods to estimate continuously various constructs, such as workload, attention level and the recognition of interaction errors. We validate these measures on a controlled virtual environment and show how they can be used to compare interaction techniques and interfaces. Thanks to such framework, EEG becomes a promising method to improve the overall usability of computer systems.
