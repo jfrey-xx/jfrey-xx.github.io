@@ -8,7 +8,7 @@ Nous proposons un toolkit pour créer une expérience de hors-corps tangible: re
 
 <iframe src="//player.vimeo.com/video/142287968" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 
-Ce projet est dans la continuité de ce que nous avons fait avec [Teegi](http://phd.jfrey.info/projects/teegi/). Nous avons voulu donner accès à des signaux de haut niveau via un feedback expressif et explorer des applications multi-utilisateurs. À travers une approche de co-design, nous avons investigué comment le grand public se représente sa physiologie et nous avons validé l'acceptabilité de Tobe dans un musée scientifique. Nous donnons aussi un exemple pratique où deux utilisateurs se relaxent ensembles, en touchant du doigt comment Tobe les a aidé à synchroniser leurs signaux et à partager un moment.
+Ce projet est dans la continuité de ce que nous avons fait avec [Teegi](http://phd.jfrey.info/fr/projets/teegi/). Nous avons voulu donner accès à des signaux de haut niveau via un feedback expressif et explorer des applications multi-utilisateurs. À travers une approche de co-design, nous avons investigué comment le grand public se représente sa physiologie et nous avons validé l'acceptabilité de Tobe dans un musée scientifique. Nous donnons aussi un exemple pratique où deux utilisateurs se relaxent ensembles, en touchant du doigt comment Tobe les a aidé à synchroniser leurs signaux et à partager un moment.
 
 ![Tobe pour une relaxation à plusieurs](/images/tobe/tobe_coherence.jpg)
 
