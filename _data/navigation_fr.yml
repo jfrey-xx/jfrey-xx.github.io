@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Thèse
+  url: /fr/these/
+  excerpt: "Tout a commencé par un doctorat."
+  image: teaser_thesis.jpg
+  
 - title: Projets
   url: /fr/projets/
   excerpt: "Projets de recherche."
