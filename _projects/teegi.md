@@ -14,7 +14,7 @@ EEG (electroencephalography) is used to record electrical signals onto the scalp
 
 Our work consists in a multi-disciplinary approach that combines spacial augmented reality, signal processing and inquiry based learning. The result is an entertaining device that can get users hands on neuroscience and prevent false knowledge to grow from misunderstanding -- no device will ever read thoughts!
 
-Beside our scientific work, we also took Teegi out of the lab, for exemple at the [IIT Techfest](http://www.techfest.org/) -- see the quite hypnotizing time-lapse video below, 8 hours of show and hundreds of attendees in one minute. 
+Beside our scientific work, we also took Teegi out of the lab, for example at the [IIT Techfest](http://www.techfest.org/) -- see the quite hypnotizing time-lapse video below, 8 hours of show and hundreds of attendees in one minute. 
 
 <iframe src="//player.vimeo.com/video/117606948" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 
