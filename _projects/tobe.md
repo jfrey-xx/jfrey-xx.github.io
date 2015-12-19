@@ -9,7 +9,7 @@ We propose a toolkit for creating Tangible Out-of-Body Experiences: exposing the
 
 <iframe src="//player.vimeo.com/video/142287968" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 
-This project extends what we did with [Teegi](http://phd.jfrey.info/projects/teegi/). We wanted to give access to high-level signals with a meaningful feedback and explore multi-user applications. Through a co-design approach, we investigated how everyday people picture their physiology and we validated the acceptability of Tobe in a scientific museum. We also give a practical example where two users relax together, with insights on how Tobe helped them to synchronize their signals and share a moment.
+This project extends what we did with [Teegi](/projects/teegi/). We wanted to give access to high-level signals with a meaningful feedback and explore multi-user applications. Through a co-design approach, we investigated how everyday people picture their physiology and we validated the acceptability of Tobe in a scientific museum. We also give a practical example where two users relax together, with insights on how Tobe helped them to synchronize their signals and share a moment.
 
 ![Tobe for multi-user relaxation](/images/tobe/tobe_coherence.jpg)
 
