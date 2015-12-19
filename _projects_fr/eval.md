@@ -2,6 +2,7 @@
 title: "EEG comme outil d'évaluation pour l'IHM"
 project: "eval"
 image-teaser: "teaser_eval.jpg"
+order: 6
 ---
 
 La mesure de l'activité cérébrale au moyen de l'électroencéphalographie (EEG) est assez mature pour estimer plusieurs états mentaux. Combiné avec les méthodes existantes, un tel outil peut être utilisé pour renforcer notre compréhension de l'expérience utilisateur. Nous présentons un ensemble de méthodes qui permettent d'évaluer de manière continue plusieurs construits, tel la charge mentale, le niveau d'attention ou la reconnaissance d'erreurs d'interaction. Nous validons ces mesures au sein d'un environnement virtuel contrôlé et montrons comment elles peuvent être utilisées pour comparer techniques d'interaction et interfaces. Grâce à un tel framework, l'EEG devient une méthode prometteuse afin d'améliorer l'utilisabilité des ordinateurs.
