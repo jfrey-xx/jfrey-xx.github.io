@@ -1,7 +1,7 @@
 ---
 layout: index
 permalink: /
-excerpt: "Greetings! I'm a PhD student in computer science. My thesis brings together the evaluation of human-computer interaction and electroencephalography recordings. More often than my advisers would like, I also toy with physiological sensors and machine learning."
+excerpt: "Greetings! I'm a researcher in computer science. I explore how physiological computing can contribute to human-computer interaction and foster new communication channels among the general public. I came to think that the purpose of those technological artifacts is to enhance well being and facilitate human relationships on the whole. Or at least this is the path into which I try to venture, hacking my way."
 ---
 
 ### Last news

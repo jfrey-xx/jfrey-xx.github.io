@@ -1,7 +1,7 @@
 ---
 layout: index
 permalink: /fr/
-excerpt: "Salutations ! Je suis doctorant en informatique. Ma thèse combine évaluation des interactions homme-machine et enregistrements électro-encéphalographiques. Plus souvent que ne le souhaiteraient mes directeurs, j'aime aussi jouer avec les capteurs physiologiques et avec le machine learning."
+excerpt: "Salutations ! Je suis chercheur en informatique. J'explore comment l'informatique physiologique peut améliorer les interactions homme-machine et mener à de nouveaux canaux de communication entre les personnes. J'en suis arrivé à la conclusion que le but de cette technologie est de contribuer à notre bien-être et de faciliter les relations humaines. Dumoins c'est la voie sur laquelle je tente de m'aventurer, bidouillant en chemin."
 lang: fr
 ---
 
