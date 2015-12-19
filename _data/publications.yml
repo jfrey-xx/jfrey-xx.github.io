@@ -254,7 +254,6 @@
   title: "Tools for electroencephalography-based evaluation of user experience"
   type: paper-conference
   abbreviation: "CHI '16"
-  project:
-  - "eval"
-  - "stereo"
+  project: "eval"
+  project: "stereo"
   pdf-link: "http://phd.jfrey.info/publications/"
