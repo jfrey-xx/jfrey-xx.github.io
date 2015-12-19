@@ -1,9 +1,6 @@
 <ul class="menu-item">
   <li class="home"><a href="/">{{ site.title }}</a></li>
   
-   <!-- twitter link -->
-   <li><a href="https://twitter.com/jfrey_xx" class=language-selector><img src="{{ site.url }}/images/twitter-icon.png" alt="twitter icon" height="24" width="24"></a></li>
-   
   {% if page.lang == 'fr' %}
     {% assign nav_data = site.data.navigation_fr %}
   {% else %}
@@ -17,4 +14,7 @@
     {% endif %}
     <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
   {% endfor %}
+  
+  <!-- twitter link -->
+  <li><a href="https://twitter.com/jfrey_xx" class=language-selector><img src="{{ site.url }}/images/twitter-icon.png" alt="twitter icon" height="16" width="16"></a></li>
 </ul>
