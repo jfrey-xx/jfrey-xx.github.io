@@ -1,5 +1,5 @@
 ---
-title: "Teegi: Tangible EEG Interaction"
+title: "Teegi: Tangible EEG Interface"
 project: "teegi"
 image-teaser: "teaser_teegi.jpg"
 ---
