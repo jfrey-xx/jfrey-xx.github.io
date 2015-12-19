@@ -22,4 +22,4 @@ Nous somme en train de travailler sur une nouvelle version de Teegi, plus pratiq
 
 ![Teegi disco, v1](/images/teegi/disco.jpg)
 
-Plus de détails sur le site de l'[équipe](https://team.inria.fr/potioc/fr/scientific-subjects/teegi-tangible-eeg-interface/), ainsi que sur celui de [Renaud](http://renaudgervais.github.io/teegi-tangible-eeg-interface/).
+Plus de détails sur le site de l'[équipe](https://team.inria.fr/potioc/fr/scientific-subjects/teegi-tangible-eeg-interface/), ainsi que sur celui de [Renaud](http://renaudgervais.github.io/teegi-tangible-eeg-interface/). Vous pourriez être aussi intéressé par l'autre proxy tangible qui a ensuite vu le jour :  [Tobe](http://phd.jfrey.info/projects/tobe/).
