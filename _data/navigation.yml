@@ -19,3 +19,9 @@
   url: /about/
   excerpt: "Who and what is behind."
   image: teaser_about.jpg
+
+- title: CV 
+  url: /cv/jeremy_frey_cv.pdf
+  excerpt: "One neat CV for the curious people out there"
+  image: teaser_cv.jpg
+ 
