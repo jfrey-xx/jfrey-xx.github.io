@@ -19,3 +19,9 @@
   url: /fr/a-propos/
   excerpt: "Les dessous de l'histoire."
   image: teaser_about.jpg
+
+- title: CV 
+  url: /cv/jeremy_frey_cv.pdf
+  excerpt: "Un CV tout propre pour les curieux alentour"
+  image: teaser_cv.jpg
+ 
