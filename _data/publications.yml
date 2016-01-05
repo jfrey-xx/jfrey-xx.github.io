@@ -233,7 +233,7 @@
   abbreviation: Hindawi
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01222045/document"
-- URL: http://phd.jfrey.info/publications/
+- URL: https://hal.inria.fr/hal-01251014
   container-title: CHI
   author:
   - family: Frey
@@ -243,6 +243,9 @@
   - family: Daniel
     given:
     - Maxime
+  - family: Julien
+    given:
+    - Castet
   - family: Hachet
     given:
     - Martin
@@ -252,8 +255,8 @@
   issued:
     year: 2016
   year: 2016
-  title: "Tools for electroencephalography-based evaluation of user experience"
+  title: "Framework for electroencephalography-based evaluation of user experience"
   type: paper-conference
   abbreviation: "CHI '16"
   project: "eval"
-  pdf-link: "http://phd.jfrey.info/publications/"
+  pdf-link: "https://hal.inria.fr/hal-01251014"
