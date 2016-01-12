@@ -243,9 +243,9 @@
   - family: Daniel
     given:
     - Maxime
-  - family: Julien
+  - family: Castet
     given:
-    - Castet
+    - Julien
   - family: Hachet
     given:
     - Martin
@@ -259,4 +259,4 @@
   type: paper-conference
   abbreviation: "CHI '16"
   project: "eval"
-  pdf-link: "https://hal.inria.fr/hal-01251014"
+  pdf-link: "https://hal.inria.fr/hal-01251014/document"
