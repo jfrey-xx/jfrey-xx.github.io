@@ -35,8 +35,7 @@
   URL: http://dx.doi.org/10.1145/2559206.2581191
   page: 2041-2046
   ISBN: 9781450324748
-  container-title: "Proceedings of the extended abstracts of the 32nd annual ACM
-    conference on Human factors in computing systems"
+  container-title: "ACM Conference on Human Factors in Computing Systems Extended Abstracts"
   author:
   - family: Frey
     given:
@@ -183,7 +182,7 @@
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01157890/document"
 - URL: https://hal.inria.fr/hal-01215499
-  container-title: TEI
+  container-title: "ACM Conference on Tangible, Embedded and Embodied Interaction"
   author:
   - family: Gervais
     given:
@@ -226,15 +225,15 @@
     given:
     - Martin
   issued:
-    year: 2015
-  year: 2015
+    year: 2016
+  year: 2016
   title: "Classifying EEG Signals during Stereoscopic Visualization to Estimate Visual Comfort"
   type: journal
   abbreviation: Hindawi
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01222045/document"
 - URL: https://hal.inria.fr/hal-01251014
-  container-title: CHI
+  container-title: ACM Conference on Human Factors in Computing Systems Extended Abstracts
   author:
   - family: Frey
     given:
