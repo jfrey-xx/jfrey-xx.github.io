@@ -57,7 +57,7 @@
   title: Assessing the zone of comfort in stereoscopic displays using EEG
   type: article-journal
   publisher: ACM Press
-  abbreviation: "CHI '14"
+  abbreviation: "CHI EA '14"
   pdf-link: "http://hal.inria.fr/docs/00/98/27/82/PDF/article-publish.pdf"
   project: "stereo"
 - URL: http://dx.doi.org/10.1145/2642918.2647368
@@ -233,7 +233,7 @@
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01222045/document"
 - URL: https://hal.inria.fr/hal-01251014
-  container-title: ACM Conference on Human Factors in Computing Systems Extended Abstracts
+  container-title: ACM Conference on Human Factors in Computing Systems
   author:
   - family: Frey
     given:
