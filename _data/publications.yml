@@ -259,3 +259,18 @@
   abbreviation: "CHI '16"
   project: "eval"
   pdf-link: "https://hal.inria.fr/hal-01251014/document"
+- URL: https://hal.inria.fr/hal-01273938
+  container-title: "ACM Conference on Human Factors in Computing Systems Extended Abstracts"
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2016
+  year: 2016
+  title: "Remote Heart Rate Sensing and Projection to Renew Traditional Board Games and Foster Social Interactions"
+  type: paper-conference
+  abbreviation: "CHI EA '16"
+  project: "bluff"
+  pdf-link: "https://hal.inria.fr/hal-01273938/document"
