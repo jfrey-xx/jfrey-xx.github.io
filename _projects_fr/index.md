@@ -12,7 +12,7 @@ layout: archive
 {% for post in projects_fr reversed %}
   <!-- avoid to show an index page -->
   {% if post.exclude != true %}
-    {% include post-grid.html %}
+    {% include post-grid-simple.html %}
   {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->

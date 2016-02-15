@@ -28,7 +28,7 @@ excerpt: "Greetings! I'm a researcher in computer science. I explore how physiol
 {% for post in projects reversed %}
   <!-- avoid to show an index page -->
   {% if post.exclude != true %}
-    {% include post-grid.html %}
+    {% include post-grid-simple.html %}
   {% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
