@@ -274,3 +274,31 @@
   abbreviation: "CHI EA '16"
   project: "bluff"
   pdf-link: "https://hal.inria.fr/hal-01273938/document"
+- URL: https://hal.inria.fr/hal-01278245
+  container-title: "International BCI meeting"
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2016
+  year: 2016
+  title: "Comparison of a consumer grade EEG amplifier with medical grade equipment in BCI applications"
+  type: paper-conference
+  abbreviation: "International BCI meeting '16"
+  pdf-link: "https://hal.inria.fr/hal-01278245/document"
+- URL: https://hal.inria.fr/hal-01288542/
+  container-title: CORPS
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2015
+  year: 2015
+  title: "Émersions sensorielles"
+  type: journal
+  abbreviation: CNRS Édition
+  pdf-link: "https://hal.inria.fr/hal-01288542/document"
