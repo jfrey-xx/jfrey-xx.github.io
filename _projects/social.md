@@ -3,6 +3,7 @@ title: "Physiological computing to foster social interactions"
 project: "bluff"
 image-teaser: "teaser_social.jpg"
 order: 4
+layout: project
 ---
 
 Here I am interested in how we could use physiological signals to help people bond with each others during day life interactions. One practical example comes from a traditional board that was "augmented" through remote heart rate sensing, using webcams. Indeed, heartbeats could be used to [increase social presence](/projects/agents-social-presence/). Projection helped to conceal the technological aspects from users and to seamlessly integrate the biofeedback to players' surroundings.

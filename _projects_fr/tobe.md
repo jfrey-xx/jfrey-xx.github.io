@@ -3,6 +3,7 @@ title: "Tobe: expérience de hors-corps tangible"
 project: "tobe"
 image-teaser: "teaser_tobe.jpg"
 order: 5
+layout: project
 ---
 
 Nous proposons un toolkit pour créer une expérience de hors-corps tangible: rendre visibles les états internes de l'utilisateur à l'aide de signaux physiologiques comme le rythme cardiaque ou l'activité cérébrale. Tobe peut prendre la forme d'un avatar tangible affichant en temps réel les mesures physiologiques afin de se questionner soi et de questionner les autres. Un tel toolkit pourrait être utilisé par les chercheurs et designers afin de créer une variété d'applications, par exemple comme outil pédagogique pour les sciences de l'ingénieur ou les sciences cognitives, dans le milieu médical, pour le divertissement ou bien encore afin de jouer sur les rapports sociaux, qu'un seul ou plusieurs utilisateurs ou Tobes soient impliqués.

@@ -3,6 +3,7 @@ title: "Teegi: Tangible EEG Interface"
 project: "teegi"
 image-teaser: "teaser_teegi.jpg"
 order: 2
+layout: project
 ---
 
 Have you ever been thrilled by the possibilities unleashed by the tools that record brain activity? Or, on the opposite, are you reluctant to these devices that seem to sense your deepest thoughts?

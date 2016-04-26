@@ -3,6 +3,7 @@ title: "Mirroring physiological feedback to increase the social presence of embo
 project: "physio-agents"
 image-teaser: "teaser_agent.gif"
 order: 3
+layout: project
 ---
 
 A pet project of mine: how implicit cues such as mirrored heartbeats could influence our feelings towards embodied agents?
