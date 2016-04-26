@@ -316,6 +316,7 @@
   type: paper-conference
   abbreviation: CHI' 16 Workshop
   pdf-link: "https://hal.inria.fr/hal-01305799/document"
+  project: "vif"
 - URL: https://hal.inria.fr/hal-01288336
   container-title: Computing and Mental Health
   author:
