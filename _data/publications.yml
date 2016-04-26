@@ -302,3 +302,40 @@
   type: journal
   abbreviation: CNRS Édition
   pdf-link: "https://hal.inria.fr/hal-01288542/document"
+- URL: https://hal.inria.fr/hal-01305799
+  container-title: Pervasive Play
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2016
+  year: 2016
+  title: "VIF: Virtual Interactive Fiction (with a twist)"
+  type: paper-conference
+  abbreviation: CHI' 16 Workshop
+  pdf-link: "https://hal.inria.fr/hal-01305799/document"
+- URL: https://hal.inria.fr/hal-01288336
+  container-title: Computing and Mental Health
+  author:
+  - family: Roo
+    given:
+    - Joan Sol
+  - family: Gervais
+    given:
+    - Renaud
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Hachet
+    given:
+    - Martin
+  issued:
+    year: 2016
+  year: 2016
+  title: "Introspectibles: Tangible Interaction to Foster Introspection"
+  type: paper-conference
+  abbreviation: CHI' 16 Workshop
+  pdf-link: "https://hal.inria.fr/hal-01288336/document"
