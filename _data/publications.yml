@@ -341,3 +341,18 @@
   abbreviation: CHI' 16 Workshop
   project: "tobe"
   pdf-link: "https://hal.inria.fr/hal-01288336/document"
+- URL: https://hal.inria.fr/hal-01328427
+  container-title: International Conference on Physiological Computing
+    Systems
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2016
+  year: 2016
+  title: Comparison of an open-hardware electroencephalography amplifier with medical grade device in brain-computer interface applications
+  type: paper-conference
+  abbreviation: "PhyCS '16"
+  pdf-link: "https://hal.inria.fr/hal-01328427/document"
