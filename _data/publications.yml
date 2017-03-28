@@ -480,13 +480,13 @@
   - family: Jeunet
     given:
     - Camille
- - family: "Mladenović"
+  - family: "Mladenović"
     given:
     - "Jelena"
- - family: Pillette
+  - family: Pillette
     given:
     - ! "Léa"
- - family: Lotte
+  - family: Lotte
     given:
     - Fabien
   issued:
@@ -505,25 +505,25 @@
     given:
     - ! "Jérémy"
     me: true
- - family: Gervais
+  - family: Gervais
     given:
     - Renaud
- - family: "Lainé"
+  - family: "Lainé"
     given:
     - "Thibault"
- - family: "Maxime"
+  - family: "Maxime"
     given:
     - "Duluc"
- - family: "Germain"
+  - family: "Germain"
     given:
     - "Hugo"
- - family: Fleck
+  - family: Fleck
     given:
     - ! "Stéphanie"
- - family: Lotte
+  - family: Lotte
     given:
     - Fabien
- - family: Hachet
+  - family: Hachet
     given:
     - Lotte
   issued:
