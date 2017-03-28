@@ -431,7 +431,7 @@
   pdf-link: "https://hal.inria.fr/hal-01394255/document"
 
 - URL: https://hal.inria.fr/hal-01413462
-  container-title: Brain Computer Interfaces: Methods, Applications, Perspectives
+  container-title: "Brain Computer Interfaces: Methods, Applications, Perspectives"
   project: "eval"
   author:
   - family: Roy
@@ -492,7 +492,7 @@
   issued:
     year: 2017
   year: 2017
-  title: When HCI Meets Neurotechnologies: What You Should Know about Brain-Computer Interfaces
+  title: "When HCI Meets Neurotechnologies: What You Should Know about Brain-Computer Interfaces"
   type: course
   abbreviation: "CHI EA '17"
   pdf-link: "https://hal.inria.fr/cel-014187051/document"
