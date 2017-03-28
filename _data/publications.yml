@@ -451,7 +451,7 @@
   pdf-link: "https://sci-hub.cc/10.1002/9781119144977.ch5"
 
 - URL: https://hal.inria.fr/hal-01413448
-  container-title: Les interfaces cerveau-ordinateur 1
+  container-title: "Les interfaces cerveau-ordinateur 1: Fondements et méthodes"
   project: "eval"
   author:
   - family: Roy
