@@ -388,6 +388,7 @@
 
 - URL: https://hal.inria.fr/hal-01394254
   container-title: "Le Travail Humain"
+  project: "eval"
   author:
   - family: Frey
     given:
@@ -409,6 +410,7 @@
 
 - URL: https://hal.inria.fr/hal-01394255
   container-title: International Neuroergonomics Conference
+  project: "eval"
   author:
   - family: Frey
     given:
@@ -427,3 +429,135 @@
   type: paper-conference
   abbreviation: "Neuroergonomics '16"
   pdf-link: "https://hal.inria.fr/hal-01394255/document"
+
+- URL: https://hal.inria.fr/hal-01413462
+  container-title: Brain Computer Interfaces: Methods, Applications, Perspectives
+  project: "eval"
+  author:
+  - family: Roy
+    given:
+    - ! "Raphaëlle N."
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2016
+  year: 2016
+  title: Neurophysiological markers for passive BCIs
+  type: chapter
+  abbreviation: "Wiley-ISTE"
+  DOI: 10.1002/9781119144977.ch5
+  pdf-link: "https://sci-hub.cc/10.1002/9781119144977.ch5"
+
+- URL: https://hal.inria.fr/hal-01413448
+  container-title: Les interfaces cerveau-ordinateur 1
+  project: "eval"
+  author:
+  - family: Roy
+    given:
+    - ! "Raphaëlle N."
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2016
+  year: 2016
+  title: Marqueurs neurophysiologiques pour les interfaces cerveau-ordinateur passives
+  type: chapter
+  abbreviation: "Wiley-ISTE"
+  pdf-link: "https://hal.inria.fr/hal-01413448/document"
+
+- DOI: 10.1145/3027063.3027100
+  URL: https://hal.inria.fr/cel-014187051
+  container-title: "ACM Conference on Human Factors in Computing Systems Extended Abstracts"
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Jeunet
+    given:
+    - Camille
+ - family: "Mladenović"
+    given:
+    - "Jelena"
+ - family: Pillette
+    given:
+    - ! "Léa"
+ - family: Lotte
+    given:
+    - Fabien
+  issued:
+    year: 2017
+  year: 2017
+  title: When HCI Meets Neurotechnologies: What You Should Know about Brain-Computer Interfaces
+  type: course
+  abbreviation: "CHI EA '17"
+  pdf-link: "https://hal.inria.fr/cel-014187051/document"
+
+- DOI: 10.1145/3027063.3052971
+  URL: https://hal.inria.fr/hal-01484574
+  container-title: "ACM Conference on Human Factors in Computing Systems Extended Abstracts"
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+ - family: Gervais
+    given:
+    - Renaud
+ - family: "Lainé"
+    given:
+    - "Thibault"
+ - family: "Maxime"
+    given:
+    - "Duluc"
+ - family: "Germain"
+    given:
+    - "Hugo"
+ - family: Fleck
+    given:
+    - ! "Stéphanie"
+ - family: Lotte
+    given:
+    - Fabien
+ - family: Hachet
+    given:
+    - Lotte
+  issued:
+    year: 2017
+  year: 2017
+  project: "teegi"
+  title: "Scientific Outreach with Teegi, a Tangible EEG Interface to Talk about Neurotechnologies" 
+  type: demo
+  abbreviation: "CHI EA '17"
+  pdf-link: "https://hal.inria.fr/hal-01484574/document"
+
+- URL: https://hal.archives-ouvertes.fr/hal-01455174
+  container-title: ACM Conference on Human Factors in Computing Systems
+  author:
+  - family: Roo
+    given:
+    - Joan Sol
+  - family: Gervais
+    given:
+    - Renaud
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Hachet
+    given:
+    - Martin
+  issued:
+    year: 2017
+  year: 2017
+  title: "Inner Garden: Connecting Inner States to a Mixed Reality Sandbox for Mindfulness"
+  type: paper-conference
+  abbreviation: "CHI '17"
+  project: "inner"
+  pdf-link: "https://hal.archives-ouvertes.fr/hal-01455174/document"
+  DOI: 10.1145/3025453.3025743
+  award: "Best Paper Honorable Mention"
