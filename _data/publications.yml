@@ -356,3 +356,17 @@
   type: paper-conference
   abbreviation: "PhyCS '16"
   pdf-link: "https://hal.inria.fr/hal-01328427/document"
+- URL: https://tel.archives-ouvertes.fr/tel-01252152
+  container-title: Université de Bordeaux
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2015
+  year: 2015
+  title: 
+  type: thesis
+  abbreviation: "Univ. Bordeaux"
+  pdf-link: "https://tel.archives-ouvertes.fr/tel-01252152v2/document"
