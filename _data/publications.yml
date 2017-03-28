@@ -30,6 +30,7 @@
   pdf-link: "http://hal.inria.fr/docs/00/88/17/56/PDF/article-publish.pdf"
   project: "eval"
   DOI: 10.5220/0004708102140223
+
 - DOI: 10.1145/2559206.2581191
   publisher-place: New York, New York, USA
   URL: http://dx.doi.org/10.1145/2559206.2581191
@@ -55,11 +56,12 @@
     year: 2014
   year: 2014
   title: Assessing the zone of comfort in stereoscopic displays using EEG
-  type: article-journal
+  type: paper-conference
   publisher: ACM Press
   abbreviation: "CHI EA '14"
   pdf-link: "http://hal.inria.fr/docs/00/98/27/82/PDF/article-publish.pdf"
   project: "stereo"
+
 - URL: http://dx.doi.org/10.1145/2642918.2647368
   DOI: 10.1145/2642918.2647368
   ISBN: 9781450330695
@@ -90,6 +92,7 @@
   abbreviation: "UIST '14"
   pdf-link: "https://hal.inria.fr/hal-01025621/document"
   project: "teegi"
+
 - URL: https://hal.inria.fr/hal-01090544/
   container-title: International Conference on Physiological Computing
     Systems
@@ -108,6 +111,7 @@
   pdf-link: "https://hal.inria.fr/hal-01090544/document"
   project: "physio-agents"
   award: "Best Student Paper"
+
 - URL: https://hal.inria.fr/hal-01157896
   container-title: INTERACT
   author:
@@ -138,6 +142,7 @@
   abbreviation: "INTERACT '15"
   pdf-link: "https://hal.inria.fr/hal-01157896/document"
   project: "eval"
+
 - URL: https://hal.inria.fr/hal-01153647
   container-title: INTERACT
   author:
@@ -157,6 +162,7 @@
   title: Pointing in Spatial Augmented Reality from 2D Pointing Devices
   type: paper-conference
   abbreviation: "INTERACT '15"
+
 - URL: https://hal.inria.fr/hal-01157890
   container-title: INTERACT
   author:
@@ -181,6 +187,7 @@
   abbreviation: "INTERACT '15"
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01157890/document"
+
 - URL: https://hal.inria.fr/hal-01215499
   container-title: "ACM Conference on Tangible, Embedded and Embodied Interaction"
   author:
@@ -208,6 +215,7 @@
   abbreviation: "TEI '16"
   project: "tobe"
   pdf-link: "https://hal.inria.fr/hal-01215499/document"
+
 - URL: https://hal.inria.fr/hal-01222045
   container-title: Computational Intelligence and Neuroscience
   author:
@@ -232,6 +240,7 @@
   abbreviation: Hindawi
   project: "stereo"
   pdf-link: "https://hal.inria.fr/hal-01222045/document"
+
 - URL: https://hal.inria.fr/hal-01251014
   container-title: ACM Conference on Human Factors in Computing Systems
   author:
@@ -259,6 +268,7 @@
   abbreviation: "CHI '16"
   project: "eval"
   pdf-link: "https://hal.inria.fr/hal-01251014/document"
+
 - URL: https://hal.inria.fr/hal-01273938
   container-title: "ACM Conference on Human Factors in Computing Systems Extended Abstracts"
   author:
@@ -274,6 +284,7 @@
   abbreviation: "CHI EA '16"
   project: "bluff"
   pdf-link: "https://hal.inria.fr/hal-01273938/document"
+
 - URL: https://hal.inria.fr/hal-01278245
   container-title: "International BCI meeting"
   author:
@@ -288,6 +299,7 @@
   type: paper-conference
   abbreviation: "International BCI meeting '16"
   pdf-link: "https://hal.inria.fr/hal-01278245/document"
+
 - URL: https://hal.inria.fr/hal-01288542/
   container-title: CORPS
   author:
@@ -317,6 +329,7 @@
   abbreviation: CHI' 16 Workshop
   pdf-link: "https://hal.inria.fr/hal-01305799/document"
   project: "vif"
+
 - URL: https://hal.inria.fr/hal-01288336
   container-title: Computing and Mental Health
   author:
@@ -341,6 +354,7 @@
   abbreviation: CHI' 16 Workshop
   project: "tobe"
   pdf-link: "https://hal.inria.fr/hal-01288336/document"
+
 - URL: https://hal.inria.fr/hal-01328427
   container-title: International Conference on Physiological Computing
     Systems
@@ -356,8 +370,9 @@
   type: paper-conference
   abbreviation: "PhyCS '16"
   pdf-link: "https://hal.inria.fr/hal-01328427/document"
+
 - URL: https://tel.archives-ouvertes.fr/tel-01252152
-  container-title: Université de Bordeaux
+  container-title: "Université de Bordeaux"
   author:
   - family: Frey
     given:
@@ -366,7 +381,49 @@
   issued:
     year: 2015
   year: 2015
-  title: 
+  title: "Leveraging human-computer interactions and social presence with physiological computing"
   type: thesis
   abbreviation: "Univ. Bordeaux"
   pdf-link: "https://tel.archives-ouvertes.fr/tel-01252152v2/document"
+
+- URL: https://hal.inria.fr/hal-01394254
+  container-title: "Le Travail Humain"
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Hachet
+    given:
+    - Martin
+  - family: Lotte
+    given:
+    - Fabien
+  issued:
+    year: 2016
+  year: 2016
+  title: "EEG-based neuroergonomics for 3D user interfaces: opportunities and challenges"
+  type: thesis
+  abbreviation: "Presses Universitaires de France"
+  pdf-link: "https://hal.inria.fr/hal-01394254/document"
+
+- URL: https://hal.inria.fr/hal-01394255
+  container-title: International Neuroergonomics Conference
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Hachet
+    given:
+    - Martin
+  - family: Lotte
+    given:
+    - Fabien
+  issued:
+    year: 2016
+  year: 2016
+  title: Recent advances in EEG-based neuroergonomics for Human-Computer Interaction
+  type: paper-conference
+  abbreviation: "Neuroergonomics '16"
+  pdf-link: "https://hal.inria.fr/hal-01394255/document"
