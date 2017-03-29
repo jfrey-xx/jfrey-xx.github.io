@@ -8,9 +8,9 @@ Behind this smiling face lies a researcher in computer science who did his PhD a
 
 My [thesis]({{ site.url }}/thesis/) started with the evaluation of human-computer interaction through electroencephalography, but quickly I got interested in how physiological sensors could shape our interactions with machines, and ultimately how they could change our relationships with other individuals. If it sounds a vast program it's not my fault: as a former student in cognitive science it's hard not to think outside the box.
 
-After the completion of my PhD was a teaching assistant (ATER) for one semester at the University of Bordeaux and spent some months being a research engineer at Inria, affiliated to the [Athena](https://team.inria.fr/athena/) team.. By the end of 2016 I joined [Ullo](http://ullo.fr) as the head of the research and innovation department. This is a opportunity to transfer some of the work done at Inria so it could be used for real, for good. 
+After the completion of my PhD was a teaching assistant (ATER) for one semester at the University of Bordeaux and spent some months being a research engineer at Inria, affiliated to the [Athena](https://team.inria.fr/athena/) team. By the end of 2016 I joined [Ullo](http://ullo.fr) as the head of the research and innovation department. This is a opportunity to transfer some of the work done at Inria so it could be used for real, for good. 
 
-Starting from May 2017, I will be joining as a post-doc the [MiLAB](http://milab.idc.ac.il/) at IDC Herzliya, in Israel. Under the supervision of [Jessica Cauchard](http://www.jessicacauchard.com/), I will continue there my research on shared biofeedback, pursuing the vision of implicit interactions and adaptive environments.
+Starting from May 2017, I will be joining as a post-doc the [MiLAB](http://milab.idc.ac.il/) at IDC Herzliya, in Israel. Under the supervision of [Jessica Cauchard](http://www.jessicacauchard.com/), I will continue there my research on shared biofeedback, pursuing the vision of implicit interactions and adaptive environment.
 
 ## Under the hood
 
