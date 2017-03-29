@@ -10,7 +10,7 @@ La pleine conscience, l'acte de porter délibérément et sans jugement son atte
 
 <iframe src="//player.vimeo.com/video/200217398" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 
-Ce projet est une nouvelle itération des "introspectibles" qui ont d'abord été étudiés avec [Teegi](/fr/projects/teegi/) et [Tobe](/fr/projects/tobe/). Le Inner Garden peut être vu comme un biofeedback  multi-modal (visuel, sonore, tactile). Il aide les utilisateurs à se centrer sur leur corps, d'une manière ludique et engageante.
+Ce projet est une nouvelle itération des "introspectibles" qui ont d'abord été étudiés avec [Teegi](/fr/projets/teegi/) et [Tobe](/fr/projets/tobe/). Le Inner Garden peut être vu comme un biofeedback  multi-modal (visuel, sonore, tactile). Il aide les utilisateurs à se centrer sur leur corps, d'une manière ludique et engageante.
 
 ![Inner Garden: un bac à sable augmenté et un biofeedback multi-modal](/images/inner-garden/teaser.jpg)
 
