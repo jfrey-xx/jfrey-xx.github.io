@@ -6,7 +6,7 @@ I obtained a PhD in computer science from the university of Bordeaux. During 3 y
 
 My thesis explored how physiological computing could contribute to human-computer interaction (HCI) and foster new communication channels among the general public. My thesis committee was composed of [Stephen H. Fairclough](http://physiologicalcomputing.org/), [Anatole Lécuyer](http://people.rennes.inria.fr/Anatole.Lecuyer/), [Nicolas Roussel](http://interaction.lille.inria.fr/~roussel/) and [Thorsten O. Zander](http://www.phypa.org/team/thorsten-zander.html) -- quite a dream team if you may.
 
-Over the course of this work I published 10 peer-reviewed papers, including a journal publication, 6 publications in the very best conferences in human-computer interaction ([UIST](http://uist.acm.org/uist2014/), [INTERACT](http://www.interact2015.org/), [TEI](http://www.tei-conf.org/16/), [CHI](https://chi2016.acm.org/) -- all with acceptance rate around 25%), and a best student paper award at the [PhyCS '15](http://www.phycs.org/?y=2015) conference. OK, sorry, that was just to show-off while I can, in case someone wanting to hire a post-doc ends up here. More informative content below, namely the abstract of my thesis and the slides used during my defense.
+Over the course of this work I published 10 peer-reviewed papers, including a journal publication, 6 publications in the very best conferences in human-computer interaction ([UIST](http://uist.acm.org/uist2014/), [INTERACT](http://www.interact2015.org/), [TEI](http://www.tei-conf.org/16/), [CHI](https://chi2016.acm.org/) -- all with acceptance rate around 25%), and a best student paper award at the [PhyCS '15](http://www.phycs.org/?y=2015) conference. OK, sorry, that was just to show-off while I can, in case someone looking for a post-doc ends up here. More informative content below, namely the abstract of my thesis, some details about the manuscript, and the slides used during my defense.
 
 ![Overall picture of my thesis](/images/thesis/overall.jpg)
 
@@ -25,6 +25,18 @@ Indeed, thanks to the steady dissemination in everyday life of devices that sens
 This last study profited from advances in HCI to mask computers from the participants, integrating seamlessly digital content -- for instance biofeedback -- to the physical world. The combination of spatial augmented reality and tangible interface enable the emergence of hybrid objects that could convey a high level of information while maintaining ease of use and attractiveness. Those tools helped to build a "Tangible EEG interface", Teegi. Teegi takes the appearance of a puppet and let novices discover by themselves about their brain activity. The prototype in our laboratory became a mobile installation that we bought to public festivals. Finally, we pushed forward this project to integrate more physiological sensors and give more freedom about their visualizations, the latter spanning across several layers of abstraction. Using a co-design approach that took place in a museum, we explored how such proxy shifts our representations, about our selves as well as about the others.
 
 Four pictures of a 3-years journey during which I came to think that the purpose of computer science and human-computer interaction is to enhance well being and facilitate human relationships on the whole -- or at least this is the path into which I tried to venture, and this work represents one more step toward this goal I hope. Beyond the possibility for computers to comprehend some of our internal and mental states, physiological computing unveils another mean to mediate oneself, raising our social awareness.
+
+## Manuscript
+
+My manuscript "weights" almost 300 pages -- which is not that long for computer science, because of the many and mandatory references, but also because the chosen template is quite light. Anyway, the number of pages has little to do with the quality, I just wanted to stress that if you would honor me by reading (some of) it, time will pass by quicker than you would expect. The PDF is about 20 megabytes and is available here: [https://tel.archives-ouvertes.fr/tel-01252152/document](https://tel.archives-ouvertes.fr/tel-01252152/document).
+
+[![Fast-forward of the manuscript's writing process](/images/thesis/phd-replay.gif)](https://vimeo.com/jfreyxx/phd-replay)
+
+On a side note, during the redaction -- that took about 180 hours in total -- I used git to save regularly the modifications. It enabled me to create a visual (and audio) representation of the writing process, replaying 5000 commits in 3 minutes. Below is the complete video: 
+
+<iframe src="//player.vimeo.com/video/192887978" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+
+Supposedly, if you watch the video at its maximum quality (originally 8k but Vimeo plays only 4k at the moment) and zoom in, and zoom in and zoom in... you should be able to read each one of the frames, which are in the end snapshots taken 2 minutes apart. If by chance want to do something similar yourself, the scripts and the instructions are available there: [https://github.com/jfrey-xx/textreplay](https://github.com/jfrey-xx/textreplay).
 
 ## Defense
 
