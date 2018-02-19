@@ -2,7 +2,7 @@
 title: "Dišimo: Anchoring Our Breath"
 project: "dishimo"
 image-teaser: "teaser_dishimo.jpg"
-order: 8
+order: 9
 layout: project
 ---
 
