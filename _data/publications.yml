@@ -562,3 +562,53 @@
   pdf-link: "https://hal.archives-ouvertes.fr/hal-01455174/document"
   DOI: 10.1145/3025453.3025743
   award: "Best Paper Honorable Mention"
+  
+- URL: https://hal.inria.fr/hal-01720265/
+  container-title: ACM Conference on Human Factors in Computing Systems
+  author:
+  - family: "Mladenović"
+    given:
+    - "Jelena"
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Cauchard
+    given:
+    - "Jessica R."
+  issued:
+    year: 2018
+  year: 2018
+  title: "Dišimo: Anchoring Our Breath"
+  type: demo
+  abbreviation: "CHI EA '18"
+  project: "inner"
+  pdf-link: "https://hal.inria.fr/hal-01720265/document"
+  DOI: 10.1145/3170427.3186517
+
+- URL: https://hal.inria.fr/hal-01708620
+  container-title: ACM Conference on Human Factors in Computing Systems
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Grabli
+    given:
+    - May
+  - family: Slyper
+    given:
+    - "Ronit"
+    me: true
+  - family: Cauchard
+    given:
+    - "Jessica R."
+  issued:
+    year: 2018
+  year: 2018
+  title: "Breeze: Sharing Biofeedback Through Wearable Technologies"
+  type: demo
+  abbreviation: "CHI '18"
+  project: "inner"
+  pdf-link: "https://hal.inria.fr/hal-01708620/document"
+  DOI: 10.1145/3173574.3174219

@@ -10,7 +10,7 @@ My [thesis]({{ site.url }}/thesis/) started with the evaluation of human-compute
 
 After the completion of my PhD was a teaching assistant (ATER) for one semester at the University of Bordeaux and spent some months being a research engineer at Inria, affiliated to the [Athena](https://team.inria.fr/athena/) team. By the end of 2016 I joined [Ullo](http://ullo.fr) as the head of the research and innovation department. This is a opportunity to transfer some of the work done at Inria so it could be used for real, for good. 
 
-Starting from May 2017, I will be joining as a post-doc the [MiLAB](http://milab.idc.ac.il/) at IDC Herzliya, in Israel. Under the supervision of [Jessica Cauchard](http://www.jessicacauchard.com/), I will continue there my research on shared biofeedback, pursuing the vision of implicit interactions and adaptive environment.
+Since May 2017, I joined as a post-doc the [UsLAB](http://hci.idc.ac.il/) at IDC Herzliya, in Israel. Under the supervision of [Jessica Cauchard](http://www.jessicacauchard.com/), I will continue there my research on shared biofeedback, pursuing the vision of implicit interactions and adaptive environment.
 
 ## Under the hood
 
