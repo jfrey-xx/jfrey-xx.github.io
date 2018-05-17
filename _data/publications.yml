@@ -582,7 +582,7 @@
   title: "Dišimo: Anchoring Our Breath"
   type: demo
   abbreviation: "CHI EA '18"
-  project: "inner"
+  project: "dishimo"
   pdf-link: "https://hal.inria.fr/hal-01720265/document"
   DOI: 10.1145/3170427.3186517
 
@@ -609,6 +609,6 @@
   title: "Breeze: Sharing Biofeedback Through Wearable Technologies"
   type: demo
   abbreviation: "CHI '18"
-  project: "inner"
+  project: "breeze"
   pdf-link: "https://hal.inria.fr/hal-01708620/document"
   DOI: 10.1145/3173574.3174219
