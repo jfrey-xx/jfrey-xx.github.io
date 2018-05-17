@@ -449,7 +449,7 @@
   type: chapter
   abbreviation: "Wiley-ISTE"
   DOI: 10.1002/9781119144977.ch5
-  pdf-link: "https://sci-hub.cc/10.1002/9781119144977.ch5"
+  pdf-link: "https://sci-hub.tw/10.1002/9781119144977.ch5"
 
 - URL: https://hal.inria.fr/hal-01413448
   container-title: "Les interfaces cerveau-ordinateur 1: Fondements et méthodes"
@@ -562,6 +562,116 @@
   pdf-link: "https://hal.archives-ouvertes.fr/hal-01455174/document"
   DOI: 10.1145/3025453.3025743
   award: "Best Paper Honorable Mention"
+
+  
+- URL: https://hal.inria.fr/hal-01527752
+  container-title: NeuroAdaptive Technology Conference
+  author:
+  - family: "Mladenović"
+    given:
+    - "Jelena"
+  - family: Joffily
+    given: Mateus
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Fabien
+    given: Lotte
+  - family: Mattout
+    given:
+    - "Jérémie"
+  issued:
+    year: 2017
+  year: 2017
+  title: "Endowing the Machine with Active Inference: A Generic Framework to Implement Adaptive BCI"
+  type: paper-conference
+  abbreviation: "NAT '17"
+  pdf-link: "https://hal.inria.fr/hal-01527752/document"
+  DOI: 10.3217/978-3-85125-533-1-59
+  
+ - URL: https://hal.inria.fr/hal-01527748
+  container-title: International BCI Conference
+  author:
+  - family: "Mladenović"
+    given:
+    - "Jelena"
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: "Bonnet-Save"
+    given: Manon
+  - family: Mattout
+    given:
+    - "Jérémie"
+  - family: Fabien
+    given: Lotte
+  issued:
+    year: 2017
+  year: 2017
+  title: "The Impact of Flow in an EEG-based Brain Computer Interface"
+  type: paper-conference
+  abbreviation: "Graz BCI Conference '17"
+  pdf-link: "https://hal.inria.fr/hal-01527748/document"
+  DOI: 10.3217/978-3-85125-533-1-59
+  
+- URL: https://hal.archives-ouvertes.fr/hal-01578637
+  container-title: AFIHM conférence francophone sur l'Interaction Homme-Machine
+  author:
+  - family: Fleck
+    given:
+    - ! "Stéphanie"
+  - family: Charlotte
+    given: Baraudon
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: "Lainé"
+    given:
+    - "Thibault"
+  - family: Martin
+    given: Hachet
+  issued:
+    year: 2017
+  year: 2017
+  title: "« Teegi, il est trop beau »: Exemple d'évaluation du potentiel pédagogique d'une interface tangible interactive pour enfants en contexte scolaire"
+  type: paper-conference
+  abbreviation: "IHM '17"
+  project: "teegi"
+  pdf-link: "https://hal.archives-ouvertes.fr/hal-01578637/document"
+  DOI: 10.1145/3132129.3132143
+  award: "Best Demonstration"
+
+- URL: http://idc-2018.org/
+  container-title: ACM Interaction Design and Children Conference
+  author:
+  - family: Fleck
+    given:
+    - ! "Stéphanie"
+  - family: Charlotte
+    given: Baraudon
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: "Lainé"
+    given:
+    - "Thibault"
+  - family: Martin
+    given: Hachet
+  issued:
+    year: 2017
+  year: 2017
+  title: "Teegi's so cute!: Assessing the pedagogical potential of an interactive tangible interface for school children"
+  type: paper-conference
+  abbreviation: "IDC '17"
+  project: "teegi"
+
+  
+  
+  
   
 - URL: https://hal.inria.fr/hal-01720265/
   container-title: ACM Conference on Human Factors in Computing Systems
@@ -612,3 +722,5 @@
   project: "breeze"
   pdf-link: "https://hal.inria.fr/hal-01708620/document"
   DOI: 10.1145/3173574.3174219
+  
+  
