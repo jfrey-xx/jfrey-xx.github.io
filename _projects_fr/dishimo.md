@@ -1,5 +1,5 @@
 ---
-title: "Dišimo: Anchrer notre respiration"
+title: "Dišimo: Ancrer notre respiration"
 project: "dishimo"
 image-teaser: "teaser_dishimo.jpg"
 order: 9
