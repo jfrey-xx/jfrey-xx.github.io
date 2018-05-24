@@ -4,6 +4,7 @@ project: "inner"
 image-teaser: "teaser_inner-garden.gif"
 order: 8
 layout: project
+lang: fr
 ---
 
 La pleine conscience, l'acte de porter délibérément et sans jugement son attention sur le moment présent, a montré avoir un impact positif sur la santé et sur le bien-être subjectif. Après une étape de design itératif avec des enseignants et des pratiquants en méditation, nous avons créé un nouvel outil pour accompagner les pratiques de méditation pleine conscience. Cet outil prend la forme d'un bac à sable augmenté, conçu pour motiver et inspirer la curiosité à ses utilisateurs. En modelant le sable, l'utilisateur créée un monde miniature et vivant qui est ensuite re-projeté sur le sable. Les composants naturels du jardin sont reliés en temps réel à des mesures physiologiques tel que la respiration, aidant l'utilisateur a rester centré sur son corps. De plus, en utilisant un casque de réalité virtuelle, ils peuvent voyager à l'intérieur de leur jardin pour une session dédiée à la méditation. Les résultats préliminaires semblent indiquer que le système est adapté à la pleine conscience et induit un état de calme et de conscience de soi chez l'utilisateur.

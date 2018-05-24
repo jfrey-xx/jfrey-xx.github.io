@@ -3,6 +3,7 @@ permalink: /fr/projets/
 title: "Liste des projets"
 exclude: true
 layout: archive
+lang: fr
 ---
 
 <div class="tiles">

@@ -1,5 +1,6 @@
 ---
 title: "À propos"
+lang: fr
 ---
 
 ![{{ site.owner.name }}]({{ site.url }}/images/{{ site.owner.avatar }})

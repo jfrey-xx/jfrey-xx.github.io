@@ -4,6 +4,7 @@ project: "stereo"
 image-teaser: "teaser_stereo.jpg"
 order: 1
 layout: project
+lang: fr
 ---
 
 Les affichages stéréoscopiques se popularisent. Vous les connaissez, ils sont souvent appelés affichages "3D", ils vous font payer plus cher vos places de cinéma et effraient les parents quand leur progéniture passe des heures à jouer àt des jeux 3DS.

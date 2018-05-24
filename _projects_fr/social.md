@@ -4,6 +4,7 @@ project: "social"
 image-teaser: "teaser_social.jpg"
 order: 4
 layout: project
+lang: fr
 ---
 
 Je m'intéresse à la possibilité d'utiliser les signaux physiologiques pour aider les personnes à se lier pendant la vie de tous les jours. Un exemple pratique: "l'augmentation" d'un jeu de plateau traditionnel via une mesure de rythme cardiaque sans contact, au moyen de webcams. En effet, les battements cardiaques peuvent être utilisés pour [augmenter la présence sociale](/fr/projets/agents-presence-sociale/). La projection aide à masquer les aspects technologiques des utilisateurs et ainsi d'intégrer de manière transparente le biofeedback au sein de l'environnement des joueurs.

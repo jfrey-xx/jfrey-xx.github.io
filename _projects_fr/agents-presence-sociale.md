@@ -4,6 +4,7 @@ project: "physio-agents"
 image-teaser: "teaser_agent.gif"
 order: 3
 layout: project
+lang: fr
 ---
 
 Un de mes projets fétiches: comment des signaux implicites tels que la duplication de pulsations cardiaques peuvent-ils influer sur nos sentiments à l'égard d'agents incarnés ?

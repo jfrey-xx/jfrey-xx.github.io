@@ -4,6 +4,7 @@ project: "dishimo"
 image-teaser: "teaser_dishimo.jpg"
 order: 9
 layout: project
+lang: fr
 ---
 
 Dišimo est un dispositif ambiant proposant un feedback lié au niveau de stress, estimé à l'aide d'une mesure du rythme cardiaque. Lorsqu'une faible variabilité cardiaque est détectée pendant une longue période, Dišimo produit une ambiance audio qui va rythmer une respiration lente et régulière. Les utilisateurs peuvent alors choisir de prendre un moment pour se concentrer sur leur respiration. Ce faisant, ils activeront les appareils Dišimo appartenant à leurs proches, qui pourront alors les rejoindre pour une session de relaxation partagée.

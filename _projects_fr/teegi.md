@@ -4,6 +4,7 @@ project: "teegi"
 image-teaser: "teaser_teegi.jpg"
 order: 2
 layout: project
+lang: fr
 ---
 
 Vous êtes-vous déjà enthousiasmé pour les possibilités qu'offrent les outils mesurant l'activité cérébrale ? Ou bien, au contraire, êtes-vous plutôt du genre méfiant envers ces appareils qui semblent pouvoir capter vos pensées les plus enfouies ?
