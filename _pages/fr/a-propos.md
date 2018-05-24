@@ -11,7 +11,7 @@ Le point de départ de ma [thèse]({{ site.url }}/fr/these/) a été l'évaluati
 
 Après la fin de ma thèse j'ai enseigné pendant un semestre en tant qu'ATER à l'université de Bordeaux, et j'ai passé quelques mois en tant qu'ingénieur de recherche chez Inria, rattaché à l'équipe [Athena](https://team.inria.fr/athena/fr/). Fin 2016 j'ai rejoint [Ullo](http://ullo.fr) comme chargé de la recherche et de l'innovation. C'est là l'opportunité de transférer certains des travaux effectués chez Inria afin qu'ils puissent servir pour de bon, pour aider de vrais gens.
 
-À partir de mai 2017 je rejoindrai en comme post-doc le [MiLAB](http://milab.idc.ac.il/) à l'IDC Herzliya, en Israël. Sous la supervision de [Jessica Cauchard](http://www.jessicacauchard.com/), je continuerai là-bas mes recherches autour d'un biofeedback partagé, poursuivant la vision d'interactions implicites et d'un environnement adaptatif.
+Depuis mai 2017 j'ai aussi rejoint en tant que post-doc le [UsLAB](http://hci.idc.ac.il/) à l'IDC Herzliya, en Israël. Sous la supervision de [Jessica Cauchard](http://www.jessicacauchard.com/), je continue là-bas mes recherches autour d'un biofeedback partagé, poursuivant la vision d'interactions implicites et d'un environnement adaptatif.
 
 ## Sous le capot
 
