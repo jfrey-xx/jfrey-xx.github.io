@@ -10,6 +10,6 @@ Digitally presenting physiological signals as biofeedback to users raises awaren
 
 <iframe src="//player.vimeo.com/video/258009081" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 
-We evaluated how the breathing patterns were interpreted in a fixed environment and gathered qualitative data on the wearable device’s design. We found that participants intentionally modified their own breathing to match the biofeedback, as a technique for understanding the underlying emotion. Our results describe how the features of the breathing patterns and the feedback modalities influenced participants' perception. We include guidelines and suggested use cases, such as Breeze being used by loved ones to increase connectedness and empathy. 
+We evaluated how the breathing patterns were interpreted in a fixed environment and gathered qualitative data on the wearable device's design. We found that participants intentionally modified their own breathing to match the biofeedback, as a technique for understanding the underlying emotion. Our results describe how the features of the breathing patterns and the feedback modalities influenced participants' perception. We include guidelines and suggested use cases, such as Breeze being used by loved ones to increase connectedness and empathy. 
 
 ![Lexicon of breathing](/images/breeze/lexicon_pres.svg)
