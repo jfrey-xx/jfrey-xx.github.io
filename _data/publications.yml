@@ -314,6 +314,7 @@
   type: journal
   abbreviation: CNRS Édition
   pdf-link: "https://hal.inria.fr/hal-01288542/document"
+
 - URL: https://hal.inria.fr/hal-01305799
   container-title: Pervasive Play
   author:
@@ -644,7 +645,7 @@
   DOI: 10.1145/3132129.3132143
   award: "Best Demonstration"
 
-- URL: http://idc-2018.org/
+- URL: https://hal.inria.fr/hal-01804324/http://idc-2018.org/
   container-title: ACM Interaction Design and Children Conference
   author:
   - family: Fleck
@@ -668,6 +669,7 @@
   type: paper-conference
   abbreviation: "IDC '17"
   project: "teegi"
+  pdf-link: "https://hal.inria.fr/hal-01804324/document"
   
 - URL: https://hal.inria.fr/hal-01720265/
   container-title: ACM Conference on Human Factors in Computing Systems
@@ -747,7 +749,7 @@
   year: 2018
   title: "Evaluation of a congruent auditory feedback for Motor Imagery BCI"
   type: paper-conference
-  abbreviation: "International BCI meeting '16"
+  abbreviation: "International BCI meeting '18"
   pdf-link: "https://hal.inria.fr/hal-01794900/document"
   
 - URL: https://hal.inria.fr/hal-01796754
@@ -772,5 +774,45 @@
   year: 2018
   title: "Active Inference for Adaptive BCI: application to the P300 Speller"
   type: paper-conference
-  abbreviation: "International BCI meeting '16"
+  abbreviation: "International BCI meeting '18"
   pdf-link: "https://hal.inria.fr/hal-01796754/document"
+
+- URL: https://hal.inria.fr/hal-01861830
+  container-title: WellComp
+  author:
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  - family: Cauchard
+    given:
+    - "Jessica R."
+  issued:
+    year: 2018
+  year: 2018
+  project: "breeze"
+  title: "Remote Biofeedback Sharing, Opportunities and Challenges"
+  type: paper-conference
+  abbreviation: UbiComp' 18 Workshop
+  pdf-link: "https://hal.inria.fr/hal-01861830/document"
+
+- URL: https://hal.inria.fr/hal-01861829
+  container-title: International Conference on Physiological Computing
+    Systems
+  author:
+  - family: Hamon
+    given: Morgane
+  - family: Ramadour
+    given:
+    - ! "Rémy"
+  - family: Frey
+    given:
+    - ! "Jérémy"
+    me: true
+  issued:
+    year: 2018
+  year: 2018
+  title: Exploring Biofeedback with a Tangible Interface Designed for Relaxation
+  type: paper-conference
+  abbreviation: "PhyCS '18"
+  pdf-link: "https://hal.inria.fr/hal-01861829/document"
