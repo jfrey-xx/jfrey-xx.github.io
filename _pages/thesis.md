@@ -40,6 +40,6 @@ Supposedly, if you watch the video at its maximum quality (originally 8k but Vim
 
 ## Defense
 
-Here are the slides used during my defense, powered by [reveal.js](http://lab.hakim.se/reveal-js/). Press space bar to move forward, comments are embedded. For a full page version, visit [http://phd.jfrey.info/thesis-defense/](http://phd.jfrey.info/thesis-defense/) -- expects a 16:9 ratio. 
+Here are the slides used during my defense, powered by [reveal.js](http://lab.hakim.se/reveal-js/). Press space bar to move forward, comments are embedded. For a full page version, visit [https://phd.jfrey.info/thesis-defense/](http://phd.jfrey.info/thesis-defense/) -- expects a 16:9 ratio. 
 
-<iframe src="http://phd.jfrey.info/thesis-defense" width="800" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+<iframe src="https://phd.jfrey.info/thesis-defense" width="800" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
