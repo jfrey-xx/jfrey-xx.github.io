@@ -7,10 +7,8 @@ logo: logo.png
 # 400x250 px default teaser image used in image archive grid
 teaser: teaser.png
 locale:
-#url: http://192.168.0.8/jekyll
-#url: http://jfrey-xx.github.io
-#url: http://localhost:4000
-url: http://phd.jfrey.info
+#url: https://jfrey-xx.github.io
+url: https://phd.jfrey.info
 
 # Jekyll configuration
 
@@ -27,7 +25,7 @@ gems:
 # Site owner
 owner:
   name: Jérémy Frey
-  email: jeremy.frey-at-inria.fr
+  email: jfrey@qualya.io 
   twitter: jfrey_xx
   google:
     ad-client: 
